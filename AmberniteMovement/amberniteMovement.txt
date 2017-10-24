@@ -1,0 +1,107 @@
+iRO Re:Start 9/3/2017
+monster on 162 63 gef_fild03 status recovering a coco to bring it to a cell to record its movement from there.
+This is what it looks like
+
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXOOOOOOOOO
+XXXXXXOMOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+XXXXXXOOOOOOOOO
+
+The monster is on the line 2 cells from the wall. The purpose is to see
+if a monster's random walk chooses to click on walls the way a player would.
+START
+-1 0
+0 -2
+0 1
+0 -4
+0 1
+-1 0
+3 -7
+3 0
+0 -2
+0 -4
+-1 -5
+1 -5
+5 0
+3 0
+2 0
+4 0
+0 -4
+0 -4
+0 -7
+0 -2
+5 0
+4 0
+-1 0
+3 -5
+7 0
+1 0
+6 -1
+2 -5
+0 1
+5 0
+0 -4
+5 -6
+5 0
+4 -2
+7 -7
+2 0
+-1 -6
+3 0
+4 0
+0 -4
+6 0
+0 1
+5 1
+-1 -6
+-1 0
+6 0
+2 0
+0 -4
+-1 1
+6 -1
+7 0
+-1 0
+5 -5
+0 -1
+0 -6
+4 -7
+1 -4
+4 0
+0 -1
+4 0
+0 -6
+1 -5
+4 -3
+-1 -6
+5 -1
+-1 0
+1 0
+1 0
+2 1
+0 1
+-1 0
+0 -7
+0 -4
+7 0
+0 1
+6 0
+0 -7
+5 -2
+0 -6
+0 -3
+2 0
+0 -5
+0 -6
+0 -5

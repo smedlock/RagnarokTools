@@ -1,0 +1,15 @@
+Averages obtained with 3000 boxes.
+
+Authoritative Badge: 5.933333333333334
+Blue Herb: 6.0
+Cobweb: 6.0
+Crystal Fragment: 3.3
+Fabric: 20.866666666666667
+Heart of Mermaid: 12.133333333333333
+Immortal Heart: 19.466666666666665
+Karvodailnirol: 0.224
+Poison Spore: 63.71666666666667
+Speed Potion: 3.6233333333333335
+Stem: 66.4
+Witch Starsand: 125.03333333333333
+Zenorc's Fang: 4.45

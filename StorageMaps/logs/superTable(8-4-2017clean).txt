@@ -1,0 +1,2479 @@
+                                                  ITEM        TOTAL
+                                        1carat Diamond        43805
+                                        2carat Diamond         5752
+                                        3carat Diamond         2907
+                                      99 Battle Manual          173
+                                  99 Battle Manual Box          156
+                                              Amethyst         6202
+                                           Animal Skin        18343
+                                               Ant Jaw         2202
+                                       Assassin Dagger          350
+                                                 Azoth          158
+                                      Beast Powder Box           16
+                                       Black Dyestuffs        19422
+                                            Bloody Axe          564
+                                             Chocolate        49585
+                                       Chocolate Drink        46807
+                                                  Coal        98965
+                                  Cobaltblue Dyestuffs        19669
+                                               Coronet          362
+                                               Corsair          542
+                                       Cracked Diamond        68460
+                                           Cursed Ruby       102513
+                                                Cutlus          225
+                                   Darkgreen Dyestuffs        19488
+                                               Emerald        29536
+                                              Emperium        27530
+                                      Enriched Elunium          847
+                                     Enriched Oridecon         1394
+                                             Evil Wing          301
+                                             Fireblend          239
+                                              Fly Wing        79610
+
+                                                  ITEM        TOTAL
+                                              Gae Bolg          769
+                                                Garnet        41670
+                                                  Gold        22184
+                                          Great Nature        68780
+                                   Hand-made Chocolate        48420
+                              Handmade White Chocolate        48210
+                                          Ice Falchion          199
+                                         Invasion Book            4
+                                              Iron Ore       181074
+                                Katar of  Raging Blaze          758
+                                Katar of Frozen Icicle          734
+                                       Lemon Dyestuffs        19471
+                                           Lucky Candy       242311
+                                      Lucky Candy Cane       242793
+                                          Lucky Cookie       235887
+                                             Magnifier        26026
+                                                  Meat        33179
+                                        Monster's Feed        21424
+                                         Mystic Frozen        70294
+                                          Old Blue Box       185738
+                                                  Opal         3616
+                                      Orange Dyestuffs        19656
+                                              Oridecon        45321
+                                           Osiris Doll        13016
+                                          Partizan [2]            1
+                                                 Pearl        10904
+                                          Poll Axe [1]          203
+                                             Red Blood       126508
+                                    Red Square Bag [2]           83
+                                          Red Stocking        19268
+
+                                                  ITEM        TOTAL
+                                             Rice Ball       242347
+                                         Rough Elunium       211112
+                                        Rough Oridecon       190886
+                                            Rough Wind        66153
+                                                  Ruby        71771
+                                           Safety Ring          473
+                                              Sapphire        31796
+                                              Sardonyx        31686
+                                     Scarlet Dyestuffs        19560
+                                           Solar Sword          147
+                                            Spiky Band          544
+                                     Stone Buckler [1]          101
+                                            Strawberry       645091
+                                              Sucsamad          336
+                                         Tantan Noodle           79
+                                          To Serve Man            9
+                                                 Topaz        39560
+                              Unbound Fricca's Circlet          132
+                                        Unknown #25009          145
+                                      Violet Dyestuffs        19417
+                                       White Chocolate        33762
+                                       White Dyestuffs        19087
+                                       Wind of Verdure       114707
+                                             Wolf Claw         5989
+                                 Yellow Butterfly Wing         2726
+                                                Zircon        40785
+                                          Ancient Cape          114
+                                   Crescent Scythe [1]           80
+                                            Drake Card            1
+                                              Erde [2]          486
+
+                                                  ITEM        TOTAL
+                                           Flame Heart        72652
+                                          Galapago Cap           21
+                                             Grimtooth          621
+                                                  Iron       408760
+                                            Kafra Card          260
+                                            Star Crumb        17999
+                                                 Tiara          291
+                                          White Potion         7355
+                                          Bomber Steak       107649
+                                               Elunium        80854
+                                             Green Ale       111850
+                                          Unripe Apple         3377
+                           +4 Combat Boots [Matyr] [1]            1
+                                           +4 Mage Hat            1
+       +4 Warlock's Battle Robe [DEX+3:Evil Druid] [1]            1
+                  +8 Commander's Manteau [Raydric] [1]            1
+                                     Adventurer's Suit            2
+                                          Anolian Skin        71577
+                                       Apple of Archer           74
+                                     Ashes of Darkness          321
+                                         Assassin Mask           12
+                                   Authoritative Badge       170599
+                                      Awakening Potion         9866
+                                               Axe [4]           11
+                                            Banana Hat           34
+                                               Bandana            3
+                                        Battle Axe [4]            5
+                                            Blade Whip            2
+                                          Blank Scroll        13055
+                                         Blue Gemstone        59893
+
+                                                  ITEM        TOTAL
+                                             Bomb Wick           11
+                                                 Boots            4
+                                         Bravery Badge        20759
+                                               Brionac          163
+                                           Buckler [1]          166
+                                        Butterfly Wing        27541
+                                                Cobweb       251297
+                                Condensed White Potion       498048
+                               Costume: Evil Wing Ears       120009
+                                      Cotton Shirt [1]           39
+                         Diabolus Robe [Roda Frog] [1]            1
+                                             Exorciser          132
+                                      Fireproof Potion        41417
+                                             Flamberge            1
+                                         Fortune Sword          732
+                                           Funeral Hat            2
+                                       Gakkung Bow [2]           41
+                                      Girl's Diary [1]           11
+                                    Goblin Leader Mask           79
+                                      Heart of Mermaid       432200
+                              Heavenly Maiden Robe [1]          600
+                              Hwergelmir's Tonic Snack          682
+                                        Immortal Heart       403118
+                                   Immortal Stew Snack          244
+                                         Inverse Scale           39
+                                          Jamadhar [1]           12
+                                           Javelin [4]            1
+                                               Jur [2]            1
+                                            Katana [4]            1
+                                             Knife [4]           44
+
+                                                  ITEM        TOTAL
+                                     Laboratory Permit            9
+                              Letter of Recommendation           20
+                                      Longinus's Spear          193
+                                    Machoman's Glasses           91
+                                               Manteau            6
+                                     Mirror Shield [1]            3
+                                      Moonlight Dagger          216
+                                   Morpheus's Bracelet          966
+                                       Morpheus's Hood          294
+                                       Morpheus's Ring          958
+                                      Morpheus's Shawl            3
+                                            Ninja Suit            2
+                                          Padded Armor            1
+                                                  Pipe           41
+                                               Pumpkin        98837
+                                          Red Gemstone         7596
+                                             Red Scarf            2
+                                     Rosary [Yoyo] [1]            2
+                                           Royal Jelly        15306
+                                      Sage's Diary [2]          138
+                                     Small Life Potion         2081
+                                           Smasher [3]            1
+                             Star-Spangled Bandana [1]           60
+                                            Sunglasses            6
+                                        Survivor's Rod            1
+                            Survivor's Rod [Drops] [1]            1
+                                         Tail Whip [2]            1
+                                           Trident [3]            1
+                                           Tsurugi [2]            1
+                     Warlock's Battle Robe [INT+3] [1]            2
+
+                                                  ITEM        TOTAL
+                     Warlock's Battle Robe [VIT+3] [1]            1
+                                         Wedding Dress            3
+                                          Wedding Veil            1
+                                              Whip [2]            1
+                                                   Wig            1
+                                       Wooden Mail [1]            1
+                                       Yellow Gemstone        19645
+                                        Yggdrasil Leaf        12865
+                                        Yggdrasil Seed        15155
+                                          +4 Grimtooth            1
+                                           +4 Ice pick            1
+                              +4 Shoes [Wild Rose] [1]            1
+                                     +4 Skull Hood [1]            1
+                                      +6 Fortune Sword            1
++9 Main Gauche [Drainliar:Minorous:Pecopeco Egg*2] [4]            1
+                                          Annoyed Mask            7
+                                             Bee Sting        23409
+                                        Berserk Potion        11958
+                                Bison Horn [Kukre] [1]           11
+                                     Box of Resentment        33052
+                                                Brigan        25564
+                                                Brooch           66
+                                         Cactus Needle        25806
+                                        Chain Mail [1]          217
+                                           Claw of Rat           69
+                                              Clip [1]         1247
+                                      Coldproof Potion        44653
+                                          Cotton Shirt           11
+                                          Cursed Arrow         6230
+                                          Cursed Water        56385
+
+                                                  ITEM        TOTAL
+                                     Earthproof Potion        43754
+                                   Elemental Converter        30341
+                                          Empty Bottle       372645
+                                      Festa Gold Medal         1643
+                                     Glass of Illusion           29
+                                          Honey Pastry        39397
+                                               Jellopy        30894
+                             Mantle [LUK+3:Poring] [1]            1
+                                          Mighty Staff           16
+                                     Military Ration B            9
+                                     Military Ration C            1
+                                     Mischievous Fairy            4
+                                      Morrigane's Helm          282
+                                            Mute Arrow        27391
+                                  Necklace of Oblivion          437
+                                 Orange Gooey Mushroom         2103
+                                             Panda Hat          123
+                                         Pirate Dagger            5
+                                          Poison Arrow          316
+                                         Poison Bottle         4020
+                                          Poison Spore       712424
+                                           Poring coin          433
+                                          Rainbow Cake        42052
+                                         Sesame Pastry        36995
+                                           Sharp Arrow         2664
+                                                 Shell         6802
+                                           Sleep Arrow        23745
+                                    Somber Novice Hood            2
+                                          Speed Potion        45045
+                                                 Steel        71273
+
+                                                  ITEM        TOTAL
+                                                  Stem       750477
+                                                 Stone         8513
+                                            Stun Arrow        30019
+                                     Tasty Pink Ration            6
+                                   Thunderproof Potion        42671
+                                            Undershirt           16
+                                        Unknown #19810          189
+                                        Vali's Manteau            1
+                                          Venom Canine        10625
+                                        Witch Starsand       961121
+                                         Zenorc's Fang       122560
+                                                 Agate         1722
+                                            Alarm Mask            6
+                                         Baphomet Doll          856
+                                          Barren Trunk           14
+                                              Bat Cage          113
+                                       Battle Hook [1]           32
+                                               Biotite          161
+                                           Black Ladle            6
+                                       Burning Bow [1]          152
+                                                 Cacao         8995
+                                                Citrin          545
+                                      Clip [Joker] [1]            1
+                        Cooked Nine Tail's Tails Snack           31
+                                                 Cyfar        10003
+                                           Dead Branch        29094
+                                       Decomposed Rope          163
+                          Dragon Breath Cocktail Snack         4310
+                                          Emveretarcon       241204
+                                           Firecracker           83
+
+                                                  ITEM        TOTAL
+                                        Frozen Bow [1]           45
+                                      Glittering Paper          549
+                                          Greed Scroll           59
+                                             Guard [1]          206
+                                     Guild Surplus Box        12672
+                                          Gust Bow [1]           30
+                                         HE Bubble Gum           48
+                                     Heart Breaker [1]           54
+                                           Hornet Card           33
+                                              Mace [4]           91
+                                         Matyr's Leash            1
+                                         Mental Potion          430
+                                           Muffler [1]          371
+                                             Muscovite          155
+                                         Orc Lady Card            9
+                                           Pencil Case           38
+                                               Peridot          124
+                                            Phlogopite          254
+                                   Platinum Shotel [1]           10
+                                              Pyroxene          655
+                                           Racoon Doll          100
+                                   Regeneration Potion           32
+                                       Romantic Flower           56
+                                           Rose Quartz           49
+                                                 Rouge          550
+                                      Rune of Darkness         2661
+                                            Shield [1]          207
+                                             Shoes [1]          383
+                                         Silk Robe [1]          280
+                                        Skeggiold Card            5
+
+                                                  ITEM        TOTAL
+                                          Soft Feather        74347
+                                Steamed Scorpion Snack         2717
+                                  Steamed Tongue Snack          171
+                                        Sword Mace [1]            3
+                                          Treasure Box         3868
+                                                 Trunk         6821
+                                             Turquoise         1775
+                                        Union of Tribe         1398
+                                   Witch's Pumpkin Hat            2
+                                        Yggdrasilberry        15778
+                                     +5 Orc Archer Bow            1
+                                        +6 Scalpel [3]            1
+                          +7 Gust Bow [Hatii Bebe] [1]            1
+                                         Arrow of Wind        39155
+                               Bison Horn [Gazeti] [1]            1
+                                               Bow [4]           12
+                                 Clip [Wind Ghost] [1]            1
+                                                Fabric       429110
+                                            Fire Arrow        46879
+                                          Green Potion        43027
+                                            Holy Water         3701
+                                            Hunter Bow            2
+                                          Silver Arrow        55869
+                                           Steel Arrow        19171
+                                     Wind Arrow Quiver            6
+                                          +10 Mace [4]            7
+                   +10 Mace [Caramel:Mandragora*3] [4]            1
+                   +10 Mace [Drainliar*2:Goblin*2] [4]            1
+                +10 Mace [Goblin*2:Santa Poring*2] [4]            1
+              +10 Mace [Minorous*2:Pecopeco Egg*2] [4]            1
+
+                                                  ITEM        TOTAL
+                 +10 Mace [Pecopeco Egg*2:Vadon*2] [4]            1
+                         +10 Mace [Pecopeco Egg*4] [4]            1
+                     +4 Ancient Cape [Dragon Tail] [1]            1
+                   +4 Parade Hat [Stalactic Golem] [1]            1
+                               +4 Silk Robe [Marc] [1]            1
+                                +7 Baby Dragon Hat [1]            2
+                        +7 Baby Dragon Hat [Cramp] [1]            1
+                                    +7 Morpheus's Hood            1
+                                +7 Shadowmancer's Helm            1
+                               +7 Silk Robe [Marc] [1]            1
+           +9 Composite Bow [Drainliar*2:Goblin*2] [4]            1
+    +9 Composite Bow [Mandragora*2:Pecopeco Egg*2] [4]            1
++9 Composite Bow [Mao Guai:Minorous:Pecopeco Egg*2] [4]            1
+      +9 Composite Bow [Minorous*2:Orc Skeleton*2] [4]            1
+   +9 Composite Bow [Pecopeco Egg*2:Skel Worker*2] [4]            1
+                 +9 Composite Bow [Santa Poring*4] [4]            1
+                        +9 Composite Bow [Vadon*4] [4]            1
+               +9 Pike [Minorous*2:Orc Skeleton*2] [4]            1
+                  +9 Pike [Pecopeco Egg*2:Vadon*2] [4]            1
+                                       Arrow of Shadow        13744
+                                   Baby Dragon Hat [1]            1
+                                             Boots [1]          361
+                                          Broken Crown          885
+                                Broken Farming Utensil          102
+                                         Burning Heart         4147
+                                         Chonchon Doll         1087
+                                      Clattering Skull          215
+                                  Clip [Alligator] [1]            2
+                                      Divine Cloth [1]            2
+                                             Fine Grit          444
+
+                                                  ITEM        TOTAL
+                                         Fish In Mouth            5
+                                            Green Herb        77660
+                                                 Guard           14
+                                      Horrendous Mouth          357
+                              Kandura [Evil Druid] [1]            1
+                                    Key of Underground          391
+                                         Magical Stone            3
+                                               Memento          389
+                                        Old Purple Box        24719
+                                       Old White Cloth          135
+                                       Organic Pumpkin           73
+                                  Pike [Requiem*4] [4]            1
+                                                Puppet           62
+                                          Red Envelope          615
+                                              Ring [1]          175
+                                     Ring [Mantis] [1]            7
+                                      Ring [Tarou] [1]            1
+                                               Rod [4]           24
+                                             Skel-Bone          788
+                                                 Skull         1712
+                                    Steel Arrow Quiver           17
+                                          Sticky Mucus        19699
+                                          Stolen Candy           98
+                                            Thin Trunk           35
+                          Tights [DEX+3:Porcellio] [1]            1
+                                       Torn Magic Book           82
+                                            Weihna [2]           12
+                                         Worn Out Page          201
+                                                Zargon       236170
+                                        +10 Katana [4]            1
+
+                                                  ITEM        TOTAL
+                                +4 Greaves [Matyr] [1]            1
+                                     +4 Schweizersabel            1
+                                  +4 Stone Buckler [1]            1
+                                           +4 Tomahawk            1
+                                    +5 Assaulter Lance            1
+                                           +5 Gae Bolg            1
+                                            +6 Brionac            1
+                                        +6 Magni's Cap            2
+                      +7 Odin's Blessing [Mineral] [1]            1
+                    +8 Stone Buckler [Executioner] [1]            1
+                                                 Apple          651
+                               Armor Piece of Dullahan         1992
+                                                Banana         5431
+                                       Bear's Footskin        10602
+                                          Beast Powder           36
+                                          Blazzer Card           28
+                                            Blue Bijou           21
+                                             Blue Herb       134128
+                                        Bottle Grenade        97905
+                                 Broken Pharaoh Emblem         2255
+                                          Burning Hair         1008
+                                        Chewy Ricecake            2
+                                   Claw of Desert Wolf         2392
+                                       Crescent Scythe           24
+                                   Crystal of Darkness         8868
+                                       Destroyed Armor         4380
+                                             Detonator          417
+                                           Dokebi Horn        21151
+                                         Dragon Canine          551
+                                          Dragon Scale          476
+
+                                                  ITEM        TOTAL
+                                           Dragon Skin          259
+                                           Dragon Tail          140
+                                              Dry Sand        53498
+                                                   Fin          661
+                                              Fin Helm           72
+                                  Fragment of Darkness        10417
+                                            Fresh Fish        45074
+                                                Garlet          430
+                                              Gift Box       239832
+                                           Golden Gear           90
+                                                 Grape        29985
+                                           Greaves [1]          232
+                                           Green Bijou           28
+                                            Green Live       124405
+                                             Holy Robe          158
+                                              Hood [1]           12
+                                         Insect Feeler          267
+                                             Iron Cain           60
+                                                  Lava         1210
+                                       Lava Golem Card            3
+                                     Level 3 Fire Bolt           42
+                                             Live Coal         5565
+                                        Magma Fist [3]           10
+                                         Mastela Fruit        14202
+                                           Mi Gao Card           30
+                                                  Milk         3416
+                                              Mud Lump        14280
+                                        Mushroom Spore        97919
+                                          Necklace [1]           21
+                                       Needle of Alarm         1217
+
+                                                  ITEM        TOTAL
+                                        Old Frying Pan           29
+                                                Orange          110
+                                         Orange Potion           24
+                                        Orcish Voucher         3596
+                                          Pauldron [1]           78
+                                       Porcupine Quill           26
+                                             Red Bijou           17
+                                              Red Herb         2472
+                                            Rusty Iron          536
+                                        Schweizersabel           23
+                                           Silver Ring            5
+                                           Solid Shell         1343
+                                     Tae Goo Lyeon [2]           29
+                                Tail of Steel Scorpion          408
+                                                Tendon          902
+                                                  Trap        70190
+                                            White Herb        12771
+                                       Wing of Red Bat          915
+                                                   Yam          216
+                                          Yellow Bijou          493
+                                             Yoyo Doll           45
+                                             Yoyo Tail        21545
+                                           Zombie Card            9
+                            +4 Guard [Khalitzburg] [1]            1
+                             +7 Formal Suit [Marc] [1]            1
+                                     Angelic Guard [1]           12
+                                        Bison Horn [1]          431
+                                           Blue Potion        27510
+                              Brave Battlefield Guitar            1
+                                     Clip [Creamy] [1]            9
+
+                                                  ITEM        TOTAL
+                                          Diamond Ring           34
+                                       Doom Slayer [1]           22
+                                     Dragon Breath [1]           13
+                                             Gold Ring          141
+                                           Golden Bell           12
+                                    Harp [Drops*2] [2]            1
+                                     Hunting Spear [1]           67
+                                             Knife [3]           12
+                                   Ledger of Death [2]          425
+                                         Long Horn [1]          206
+                                             Mage Coat           34
+                                           Manteau [1]          203
+                                        Ninja Suit [1]            9
+                                   Odin's Blessing [1]          146
+                                         Piece of Cake        41406
+                                      Saint's Robe [1]           77
+                                            Soul Staff           81
+                                            Sphinx Hat           18
+                              Staff of Destruction [1]          412
+                                               Stunner            2
+                                    Survivor's Rod [1]          216
+                                         Vidar's Boots            2
+                                           Yellow Herb        12576
+                                         +4 Bloody Axe            1
+                       +7 Baby Dragon Hat [Willow] [1]            1
+                                           Acid Bottle        97586
+                                               Alcohol         2753
+                                     Blue Vital Flower         3871
+                                          Box of Gloom        40226
+                       Condensed Potion Creation Guide           13
+
+                                                  ITEM        TOTAL
+                            Diabolus Armor [AGI+3] [1]           11
+                            Diabolus Armor [DEX+3] [1]            6
+                            Diabolus Armor [INT+3] [1]            7
+                            Diabolus Armor [LUK+3] [1]            8
+                            Diabolus Armor [STR+3] [1]            2
+                            Diabolus Armor [VIT+3] [1]            8
+                                     Diabolus Robe [1]          176
+                             Diabolus Robe [INT+2] [1]            2
+                             Diabolus Robe [INT+3] [1]            1
+                             Diabolus Robe [STR+3] [1]            2
+                             Diabolus Robe [VIT+3] [1]            4
+                                      Easter Egg Shell            1
+                                             Fruit Mix          340
+                                       Glistening Coat         3565
+                                     Glove [Zerom] [1]           15
+                                       Golden Mace [1]            9
+                                           Hockey Mask            2
+                                           Incubus Egg            1
+                                      Incubus Egg [?1]            3
+                                         Medicine Bowl         2607
+                                         Pet Incubator         3558
+                                        Spiritual Ring           31
+                                     Strong Shield [1]           19
+                           Valkyrian Armor [AGI+3] [1]            3
+                           Valkyrian Armor [DEX+2] [1]            1
+                           Valkyrian Armor [STR+3] [1]            2
+                           Valkyrian Armor [VIT+2] [1]            2
+                                    Well Ripened Berry        30103
+                                   Yellow Vital Flower        27399
+                               +4 St Patrick's Hat [1]            1
+
+                                                  ITEM        TOTAL
+                                             Bible [2]           12
+                                            Black Hair          166
+                                           Bloody Edge           87
+                                           Bloody Rune          196
+                                      Clip [Stapo] [1]            3
+                                           Cloud Crumb           18
+                              Denture from Dragon Mask           29
+                             Dungeon Teleport Scroll 2           72
+                                           Glossy Hair           19
+                                             Handcuffs        14104
+                                           Hard Feeler           15
+                                                 Honey         2149
+                                             Ice Cubic         1529
+                                                 Lemon          150
+                                               Panacea          674
+                                         Rainbow Shell        10940
+                                                 Reins           91
+                                            Skull Ring            9
+                                      Solid Iron Piece          375
+                                      Talon of Griffon          712
+                                    Token Of Siegfried           48
+                                          Wooden Gnarl          112
+                                          Wooden Heart           41
+                                            Angel Wing          297
+                                   Armlet of Obedience         1215
+                                      Atlas Weapon [1]          138
+                                                Ba Gua         2100
+                                              Bazerald          106
+                                                 Crown          250
+                                        Dark Lord Card            4
+
+                                                  ITEM        TOTAL
+                                      Detardeurus Card            3
+                                       Dragon Fly Card            7
+                                         Fang of Hatii         2369
+                                 Fantastic Cooking Kit         1409
+                                     Fire Dragon Scale         1831
+                             Fragment of Rossata Stone         2166
+                                      Fricca's Circlet          732
+                                              Gemstone         1896
+                                         Giant Axe [1]          134
+                                               Gungnir          183
+                                           Hand of God         1712
+                                            Hatii Card            1
+                                              Hellfire          138
+                                         Heroic Emblem         3411
+                                      Immaterial Sword          102
+                                          Krasnaya [3]          135
+                                      Level 9 Cookbook          350
+                                             Long Mace          215
+                                         Magestic Goat          371
+                                 Masque of Tutankhamen         2080
+                                    Mother's Nightmare           14
+                                    Old Periwinkle Box         4280
+                                       Piece of Shield         2238
+                                        Rainbow Carrot          971
+                                   Shining Spear Blade          375
+                              Silver Knife of Chastity         1167
+                                     Thief Clothes [1]          172
+                            Three-Headed Dragon's Head         1950
+                                      Tiger's Footskin          654
+                                                Tongue         1794
+
+                                                  ITEM        TOTAL
+                                       Tropical Banana         2120
+                                        Ulle's Cap [1]          115
+                                         Angeling Card            3
+                                         Baphomet Card            2
+                                      Hydrolancer Card            5
+                                 Moonlight Flower Card            2
+                                 Mutant Dragonoid Card            1
+                                   Turtle General Card            4
+                                                 Candy        50227
+                                            Candy Cane        50176
+                                          Crystal Blue       126092
+                                      Level 5 Cookbook           22
+                               Level 5 Lightening Bolt        13706
+                                          Magician Hat          112
+                                     Novice Shield [1]            3
+                                                Pilule          339
+                                        Roda Frog Card         1339
+                                     Santa Poring Card        19093
+                                                 Spawn        47816
+                                      Tattered Clothes       148259
+                                     Well-baked Cookie          391
+                                             Wolf Card         5480
+                                              Aloevera          566
+                                                Amulet          244
+                                               Anodyne        14291
+                                         Antelope Horn         6430
+                                           Bitter Herb          318
+                                       Black Bear Skin           81
+                                     Book of the Devil          404
+                                                Cheese          452
+
+                                                  ITEM        TOTAL
+                                       Chivalry Emblem          337
+                                  Concentration Potion         2759
+                                    Contract in Shadow          284
+                                            Coral Reef          141
+                                          Counteragent          368
+                                              Daenggie          249
+                                   Deadly Noxious Herb          297
+                                         Detrimindexta          687
+                                        Dew Laden Moss          366
+                                    Earthworm the Dude          307
+                                        Emperium Anvil          344
+                                Fatty Chubby Earthworm          255
+                                  Hammer of Blacksmith          353
+                                             Her Heart          330
+                                       Horrendous Hair          405
+                                       Illusion Flower          215
+                                    Key of Clock Tower          307
+                                      Korean Rice Cake          291
+                                      Level 1 Cookbook           23
+                                      Level 2 Cookbook           20
+                                      Level 3 Cookbook           15
+                                      Level 4 Cookbook           21
+                                      Little Evil Horn         2981
+                                      Maneater Blossom          646
+                                  Marine Sphere Bottle          354
+                                               Mixture          335
+                                         Monster Juice          343
+                                       Morroc Solution          371
+                                    Necklace of Wisdom          303
+                                         Needle Packet          161
+
+                                                  ITEM        TOTAL
+                                          No Recipient          242
+                                             Old Broom          291
+                                         Old Magicbook          178
+                                          Orange Juice         1389
+                                            Orc Trophy          222
+                                       Oridecon Hammer          475
+                                          Plant Bottle          345
+                                          Pocket Watch          104
+                                           Rotten Fish          287
+                                              Shackles           73
+                                         Shining Stone          235
+                                        Short Daenggie          267
+                                        Singing Flower          257
+                                  Skeletal Armor Piece           41
+                                                 Spool          209
+                                            Stiff Horn          297
+                                      Sweet Candy Cane           33
+                                            Sweet Milk          315
+                                          Sweet Potato          334
+                                       Well-Dried Bone          321
+                                       Worn Out Scroll          184
+                                            Aquamarine         1895
+                                            Big Ribbon           24
+                                               Blinker            5
+                                       Blood Tears [2]           13
+                                        Bucket Hat [1]           23
+                                            Bunny Band            9
+                             Classic Kafra Card 10 Box            1
+                                              Coat [1]           63
+                                   Cowardice Blade [2]           21
+
+                                                  ITEM        TOTAL
+                                        Crystal Mirror           80
+                                         Crystal Pumps           83
+                                               Earring           59
+                                           Flower Band            7
+                                      Four Leaf Clover          496
+                                        Full Plate [1]            7
+                                         Ghost Bandana           53
+                                           Ginnungagap          200
+                                                 Glove           77
+                                         Grand Circlet           61
+                                              Harp [2]           78
+                                               Hat [1]           24
+                                            High Heels           49
+                                       Icicle Fist [3]            2
+                                          Joker Jester           77
+                                            Kitty Band            5
+                                    Lord's Clothes [1]          214
+                                           Magni's Cap           27
+                                         Mantis Scythe        12343
+                                            Mantle [1]          410
+                                           Memory Book           63
+                                          Mini Glasses           68
+                                         Mink Coat [1]          166
+                                            Mr. Scream           74
+                                              Necklace           78
+                                         Oriental Lute           29
+                                         Owl Duke Card          188
+                                        Pirate Bandana            4
+                                           Poo Poo Hat           13
+                                            Poring Hat           82
+
+                                                  ITEM        TOTAL
+                                            Puppy Love            6
+                                         Romantic Gent           77
+                                              Rope [4]           52
+                                  Sea Witch's Foot [1]            5
+                                               Stellar           11
+                                             Sunflower            2
+                                  Super Novice Hat [1]            2
+                                            Sweet Gent           25
+                                            Tights [1]          406
+                                            Violin [4]           59
+                                         Western Grace           34
+                                              Windhawk            8
+                                            Wing Staff            9
+                                            Wizard Hat           79
+                                          Zorro Masque           11
+                       +1 Strong Shield [High Orc] [1]            1
+                                           +6 Shackles            1
+                    +7 Stone Buckler [Orc Warrior] [1]            1
+                                                 Anvil            4
+                                           Armor Charm            5
+                                           Atroce Card            1
+                                     Bastard Sword [3]            1
+                                 Bloodied Shackle Ball            5
+                               Book of the Blazing Sun           41
+                                               Buckler            1
+                                Burning Passion Guitar            1
+                                               Cap [1]            1
+                                             Chain [3]           94
+                                     Clip [Smokie] [1]            7
+                                         Cross Bow [3]           79
+
+                                                  ITEM        TOTAL
+                                      Crystal Fragment       104066
+                                             Evil Horn          732
+                                              Helm [1]           58
+                                Katar of Piercing Wind           43
+                                       Long Barrel [1]            1
+                                            Nine Tails         1042
+                                              Pike [4]          120
+                                  Samurai Spector Card            1
+                                  Studded Knuckles [3]            1
+                                    Well-Chewed Pencil            9
+                                         Wire Whip [2]            1
+                   BROKEN Cotton Shirt [Roda Frog] [1]            1
+                                      Battle Manual X3           41
+                                             Bone Helm           28
+                                           Bow Thimble          775
+                                                Clover        52052
+                                            Cookie Bag       116873
+                                     Dagger of Counter          167
+                                          Divine Cross           18
+                                        Eagle Wing [1]           18
+                                           Earring [1]           21
+                                               Feather        61844
+                                      Fencer Scroll 10          769
+                                    Hardcover Book [1]           45
+                                Legion Plate Armor [1]          201
+                                      Little Evil Wing       194486
+                                                  Ment           17
+                                               Nemesis           65
+                                         Red Silk Seal           43
+                                                  Ring           58
+
+                                                  ITEM        TOTAL
+                                          Robe of Cast          168
+                                  Sandals [Eggyra] [1]            1
+                                        Sticky Webfoot        27713
+                                       Tidal Shoes [1]            3
+                                              Zephyrus            7
+                                           Chakram [2]            7
+                                              Coif [1]           25
+                                          Combat Knife           83
+                                         Critical Ring          143
+                                         Cursed Dagger          151
+                                    Diabolus Armor [1]          263
+                                    Diabolus Boots [1]          155
+                                           Dragon Wing          143
+                                           Flower Ring            2
+                                 Glittering Jacket [1]          269
+                                        Goibne's Armor           16
+                                      Goibne's Greaves           18
+                                         Goibne's Helm           23
+                                    Goibne's Spaulders           16
+                                           Grand Cross           98
+                                           Iron Driver            6
+                                     Magestic Goat [1]           21
+                                             Quadrille          146
+                                             Rudra Bow          111
+                             Angel's Reincarnation [1]            2
+                                            Binoculars           43
+                                           Bloody Roar          164
+                                           Byeollungum          144
+                                             Great Axe          159
+                                            Guillotine          139
+
+                                                  ITEM        TOTAL
+                                         Light Epsilon           23
+                                          Luna Bow [2]           52
+                                           Mysteltainn          146
+                                              Orc Helm            1
+                                 Queen's Hair Ornament           10
+                                               Sabbath          164
+                                           Sandals [1]           29
+                                              Tomahawk          140
+                                        Wizardry Staff            6
+                                         Dea Staff [1]           18
+                                      Delivery Message           13
+                                                  Edge          143
+                                         Bone Helm [1]           12
+                                     Staff Of Bordeaux           18
+                                Book of the Apocalypse          140
+                                        Berserk Guitar          292
+                                             Saber [3]           92
+                                        Monkey Circlet            9
+                                          Orcish Sword           16
+                                              Ph.D Hat           18
+                                        Evil Bone Wand          894
+                                         Dragon Slayer          112
+                                            Tablet [1]           10
+                                 Valkyrian Manteau [1]           45
+                                       Drill Katar [1]           13
+                                               Jur [3]           46
+                                           Krishna [2]           46
+                                 Lesser Elemental Ring           26
+                                     Muscle Cutter [2]           55
+                                           Scalpel [3]           27
+
+                                                  ITEM        TOTAL
+                                     Specialty Jur [4]           22
+                                        Vesper Core 03           20
+                                            Zweihander           13
+                                                 Nagan           27
+                                              Ballista            1
+                                           Jewel Crown           17
+                                       Formal Suit [1]           52
+                                           Loki's Nail           60
+                                             Ruber [1]            4
+                                    Two-handed Axe [2]            1
+                                      Bloody Eater [2]           44
+                                      Cross Shield [1]           44
+                                      Electric Eel [2]           56
+                                        Exorcism Bible           41
+                                      Falken Blitz [2]           11
+                                        Piercing Staff           93
+                                    Ragamuffin Manteau           36
+                                        Sacred Mission           24
+                                      Sniping Suit [1]           21
+                                            +4 Brionac            1
+                                  Angelic Cardigan [1]            6
+                                Angelic Protection [1]            4
+                                            Brooch [1]           22
+                                            Censor Bar            9
+                                       Cursed Hand [1]           15
+                                     Gemmed Sallet [1]            9
+                                        Haedonggum [2]            4
+                                        Hatii Claw [1]           19
+                                             Krieg [3]           12
+                      Lucius's Fierce Armor of Volcano            7
+
+                                                  ITEM        TOTAL
+                                       Release of Wish            1
+                                           Shadow Walk            2
+                                    Skin of Ventus [1]           10
+                                        Spectral Spear            4
+                                          Unholy Touch           25
+                                         Variant Shoes          187
+                                          Arc Wand [2]            1
+                                   Antonio's Santa Hat           27
+                                               Berserk           77
+                                              Gas Mask            4
+                                           Goblin Mask            6
+                                            Hahoe Mask            1
+                                          Opera Masque            6
+                                            Poker Face            4
+                                        Surprised Mask            5
+                                   Valkyrian Shoes [1]           32
+                                 Valkyrja's Shield [1]           21
+                                          Welding Mask            3
+                                 +4 Bradium Shield [1]            1
+                                         +4 Spiky Band            3
+                                      Angel's Kiss [1]           10
+                                                 Beret           40
+                                             Blade [4]            2
+                                  Book of Gust of Wind           41
+                                  Book of Mother Earth           37
+                                          Bowman Scarf            7
+                                    Bradium Shield [1]           14
+                                             Cigarette            2
+                                              Claymore            2
+                                            Elven Ears           10
+
+                                                  ITEM        TOTAL
+                                          Icarus Wings            1
+                                           Infiltrator            4
+                                         Jack be Dandy            2
+                                             Nurse Cap            1
+                                         Santa's Beard            6
+                                      Seismic Fist [3]            8
+                                          Shinobi Sash            1
+                                            Skull Helm            1
+                                             Spear [4]            1
+                                      Sprint Shoes [1]            2
+                                  Two-handed Sword [2]            4
+                                        Wand of Occult           14
+                                        Wool Scarf [1]            2
+                     Flame Manteau of Naght Sieger [1]           27
+                                             Glove [1]           13
+                                    Mantle [LUK+3] [1]            3
+                                                Brocca           34
+                                         Dragon Killer           14
+                                        Vesper Core 01           20
+                                        Vesper Core 02            6
+                                     +10 Cross Bow [3]           34
+                                              Ice pick           31
+                                    La'cryma Stick [2]           10
+                                           Mailbreaker            1
+                                      Morrigane's Belt            2
+                                   Morrigane's Pendant            2
+                                       Silver Robe [1]            4
+                                   Star Dust Blade [1]           67
+                                          Swordbreaker            1
+                                       Broad Sword [2]            9
+
+                                                  ITEM        TOTAL
+                                 Stem of Nepenthes [2]            3
+                                     Composite Bow [4]           48
+                                 Ring Pommel Saber [3]            9
+                               Dungeon Teleport Scroll           64
+                                           Flame Stone        10818
+                                           Gladius [3]           66
+                                  Lich's Bone Wand [2]           32
+                                            Wind Stone        24772
+                                             Ahlspiess           26
+                                              Book [3]           62
+                                Combo Battle Glove [4]           42
+                                        Gate Keeper-DD           26
+                                      Katar of Quaking           42
+                                       Main Gauche [4]          121
+                                            Masquerade           75
+                                    Orleans's Gown [1]           35
+                                            Rosary [1]           19
+                                        Unknown #27340           28
+                                        Unknown #27341           29
+                                           Waghnak [4]           40
+                                              Army Cap            2
+                                           Cute Ribbon           19
+                                         Small Ribbons            7
+                                  Orleans's Server [1]            8
+                                  Evil Snake Lord Card            1
+                                        Ghostring Card            1
+                                    Hwergelmir's Tonic            3
+                                     Level 10 Cookbook            3
+                                          Level 3 Heal           30
+                                     Arc Angeling Card            2
+
+                                                  ITEM        TOTAL
+                                        Champion BAdge            2
+                                          Dracula Card            1
+                                      Maya Purple Card            2
+                                            Young Twig           18
+                                                 Acorn         4837
+                                        Angled Glasses           16
+                                           Animal Gore           14
+                                               Glasses            1
+                                         Indian Fillet            2
+                                              Manacles           48
+                                                  Mane         4474
+                                      Padded Armor [1]           49
+                                   Powder of Butterfly          232
+                                        Rotten Bandage          293
+                                        Unknown #19850            5
+                               Worn-out Prison Uniform           50
+                                      BROKEN Mage Coat            1
+                                       Book of Billows           13
+                                       Empty Test Tube         6874
+                                                Rosary           17
+                                                Carrot        11343
+                                          Saint's Robe            1
+                                        Unknown #27339            4
+                                            Clown Nose            2
+                                             Cat's Eye           66
+                                      +4 Cursed Dagger            1
+                                     +5 Vali's Manteau            1
+                                  +7 Dagger of Counter            1
+                                          Banshee Card            4
+                                  Bison Horn [Imp] [1]            1
+
+                                                  ITEM        TOTAL
+                                      Boy's Pure Heart           91
+                                         Chonchon Card          112
+                                             Clam Soup          154
+                                           Crest Piece         3897
+                                            Cutter [4]            3
+                                     Flail Goblin Ring           90
+                                             Frus Card            4
+                                        Girl's Naivety           90
+                                           Golden Hair          438
+                                         Hell Contract           30
+                                           Holy Marble           90
+                                      Honey Herbal Tea          148
+                                               Jubilee         2414
+                                     Knife Goblin Ring           90
+                                             Moth Dust          253
+                                            Orc's Fang          456
+                              Professional Cooking Kit          732
+                                        Research Chart         1039
+                                           Rusty Screw         6591
+                                           Skogul Card            4
+                                          Stolen Cacao           19
+                                    Tasty White Ration           39
+                                          Tooth of Bat          129
+                                        Unknown #25022            1
+                                        Unknown #25132            2
+                                        Unknown #25133           16
+                                 Warlock's Battle Wand            1
+                                  Will of the Darkness           44
+                                             Maya Card            1
+                                    Ancient Card Album           28
+
+                                                  ITEM        TOTAL
+                                Dragon Breath Cocktail           34
+                                         Immortal Stew           23
+                                            Soft Apron         1385
+                              Steamed Desert Scorpions           38
+         +10 Combo Battle Glove [Abysmal Knight*4] [4]            1
+              +10 Composite Bow [Abysmal Knight*4] [4]            1
+                                    +10 Evil Bone Wand            2
+                            +10 Frozen Bow [Hydra] [1]            1
+                                     +10 Healing Staff            1
+         +10 Krasnaya [Desert Wolf:Orc Skeleton*2] [3]            1
+    +10 Ledger of Death [Baphomet:Samurai Spector] [2]            1
+              +10 Main Gauche [Lord of The Dead*4] [4]            1
+                       +10 Main Gauche [Requiem*4] [4]            1
+                                 +10 Specialty Jur [4]            2
++10 Twin Edge of Naght Sieger [Sword Guardian*2:Turtle General] [3]            1
+                   +3 Valkyrian Armor [DEX+3:Marc] [1]            1
+             +3 Valkyrian Armor [Evil Druid:INT+3] [1]            1
+                    +4 Diabolus Armor [AGI+3:Marc] [1]            1
+              +4 Diabolus Armor [Evil Druid:STR+3] [1]            1
+                    +4 Diabolus Armor [Marc:STR+3] [1]            2
+               +4 Diabolus Robe [DEX+3:Evil Druid] [1]            1
+               +4 Diabolus Robe [Evil Druid:STR+3] [1]            1
+                     +4 Diabolus Robe [INT+3:Marc] [1]            1
+                           +4 Formal Suit [Pasana] [1]            1
+                                    +4 Platinum Shield            4
+          +4 Saphien's Armor of Ocean [INT+1:Marc] [1]            1
+                +4 Saphien's Armor of Ocean [Marc] [1]            1
+                                +4 Shadowmancer's Helm            1
+                         +4 Snake Head [Nightmare] [1]            1
+                                      +4 Succubus Horn            1
+
+                                                  ITEM        TOTAL
+                    +4 Thorny Buckler [Thara Frog] [1]            5
+                   +4 Valkyrian Armor [INT+3:Marc] [1]            1
+                         +4 Valkyrian Armor [Marc] [1]            9
+                 +4 Valkyrja's Shield [Thara Frog] [1]            1
+                  +5 Combo Battle Glove [Marina*4] [4]            1
+                +5 Dark Bacilium [Stalactic Golem] [1]            1
+                +5 Elemental Sword [Cecil Damon*3] [3]            1
+     +5 Flame Manteau of Naght Sieger [Salamander] [1]            1
+            +5 Meteo Plate Armor [Tao Gunka:VIT+3] [1]            1
+            +5 Nidhoggur's Shadow Garb [Frilldora] [1]            1
+                         +5 Ulle's Cap [Nightmare] [1]            1
+               +5 Valkyrian Armor [Orc Lord:VIT+3] [1]            1
+            +6 Meteo Plate Armor [Tao Gunka:VIT+3] [1]            1
+                 +6 Valkyrja's Shield [Thara Frog] [1]            1
+                                  +7 Dark Bacilium [1]            1
+                   +7 Diabolus Boots [Green Ferus] [1]            1
+                         +7 Diabolus Boots [Matyr] [1]            1
+                               +7 Diabolus Manteau [1]            1
+                    +7 Diabolus Manteau [Deviling] [1]            1
+                             +7 Dress Hat [Isilla] [1]            1
+               +7 Elemental Sword [Doppelganger*3] [3]            1
+                      +7 Ice Pick [Turtle General] [1]            1
+            +7 Meteo Plate Armor [DEX+3:Ghostring] [1]            1
+                 +7 Meteo Plate Armor [DEX+3:Marc] [1]            1
+            +7 Meteo Plate Armor [Ghostring:VIT+3] [1]            1
+             +7 Meteo Plate Armor [INT+3:Orc Lord] [1]            1
+             +7 Meteo Plate Armor [Orc Lord:VIT+3] [1]            1
+            +7 Meteo Plate Armor [Tao Gunka:VIT+3] [1]            1
+                              +7 Muffler [Raydric] [1]            1
+              +7 Nidhoggur's Shadow Garb [Raydric] [1]            1
+
+                                                  ITEM        TOTAL
+                  +7 Orleans's Server [Thara Frog] [1]            1
+                                    +7 Platinum Shield            1
+                    +7 Skull Cap [Evil Snake Lord] [1]            1
+                  +7 Valkyrian Armor [DEX+3:Hatii] [1]            1
+                 +7 Valkyrja's Shield [Thara Frog] [1]            1
+                    +8 Bradium Shield [Thara Frog] [1]            1
+                     +8 Dark Bacilium [Gemini-S58] [1]            1
+              +8 Diabolus Armor [DEX+3:Evil Druid] [1]            1
+                       +8 Diabolus Boots [Amon Ra] [1]            1
+                   +8 Diabolus Boots [Green Ferus] [1]            1
+                                     +8 Piercing Staff            1
+             +8 St Patrick's Hat [Evil Snake Lord] [1]            1
+                      +8 St Patrick's Hat [Isilla] [1]            1
+                                     +8 Unknown #19915            1
+                  +8 Valkyrja's Shield [Ogretooth] [1]            1
+                                      +8 Variant Shoes            2
+               +9 Benevolent Guardian [White Lady] [1]            1
+     +9 Book of Billows [Abysmal Knight*2:Dracula] [3]            1
+                            +9 Book of Blazing Sun [3]            1
+         +9 Book of Blazing Sun [Abysmal Knight*3] [3]            1
+                     +9 Dark Bacilium [Gemini-S58] [1]            1
+                         +9 Diabolus Boots [Eddga] [1]            1
+              +9 Diabolus Boots [Firelock Soldier] [1]            1
+                              +9 Earth Bow [Hydra] [1]            1
+                                      +9 Feather Beret            2
+                                   +9 Fricca's Circlet            1
+                                     +9 Holy Stick [1]            1
+                          +9 Hunting Spear [Hydra] [1]            1
+                         +9 Katar of Frozen Icicle [3]            1
+                        +9 Orleans's Server [Maya] [1]            1
+
+                                                  ITEM        TOTAL
+                           +9 Rideword Hat [Carat] [1]            1
+                     +9 Sandals [Firelock Soldier] [1]            1
+        +9 Scalpel [Abysmal Knight*2:Orc Skeleton] [3]            1
+                       +9 Shoes [Firelock Soldier] [1]            1
+                    +9 Skull Cap [Kathryne Keyron] [1]            1
+               +9 Thorny Buckler [Golden Thiefbug] [1]            1
+                              +9 Valkyrian Manteau [1]            1
+                   +9 Valkyrian Manteau [Deviling] [1]            2
+            +9 Valkyrja's Shield [Golden Thiefbug] [1]            1
+                 +9 Valkyrja's Shield [Thara Frog] [1]            1
+                                             Alice Egg            1
+                                 Amblem of the Sun God            3
+                                               Asprika            4
+            BROKEN +10 Main Gauche [Cecil Damon*4] [4]            1
+                                                Billow            1
+                            Bison Horn [Alligator] [1]            5
+                             Bison Horn [Beholder] [1]            1
+                       Bison Horn [Errende Ebecee] [1]            1
+                               Bison Horn [Mantis] [1]            3
+                               Bison Horn [Smokie] [1]            2
+                                Bison Horn [Spore] [1]            1
+                                Bison Horn [Zerom] [1]            6
+                   Black Frame Glasses [Nightmare] [1]            1
+                                      Breath of Spirit            3
+                                              Brynhild            2
+                                     Brysingamen Stone           20
+                                             Cat Tread            2
+                            Chain Mail [Roda Frog] [1]            1
+                                     Civil Servant Egg            1
+                              Clip [Marine Sphere] [1]            5
+
+                                                  ITEM        TOTAL
+                                       Clip [Phen] [1]            1
+                                    Club [Drops*4] [4]            1
+                                        Cold Moonlight            4
+                              Costume: King Poring Hat            9
+                      Cursed Hand [Wickebine Tres] [1]            1
+                                          Dawn Essence           15
+                                            Demon Mask            4
+                       Diabolus Armor [DEX+3:Marc] [1]            1
+                         Diabolus Ring [Alligator] [1]            6
+                            Diabolus Ring [Horong] [1]            1
+                             Diabolus Ring [Ifrit] [1]            1
+                     Diabolus Ring [Marine Sphere] [1]            1
+                                        Donut In Mouth            1
+                                          Drifting Air            9
+                                          Dullahan Egg            2
+                                             Dusk Glow           15
+                         Elven Ears [Arc Angeling] [1]            1
+                      Elven Ears [Evil Snake Lord] [1]            1
+                              Elven Ears [Incubus] [1]            1
+                            Elven Ears [Nightmare] [1]            3
+                             Elven Ears [Orc Hero] [1]            2
+                                 Feather of Angel Wing            3
+                                             Filir Hat            1
+                      Formal Suit [Angeling:STR+2] [1]            1
+                                         Freya's Jewel            4
+                                      Gentleman's Pipe            4
+                                         Glacial Heart         3437
+                                     Glove [Joker] [1]            1
+                                     Goblin Leader Egg            2
+                                      HE Battle Manual            3
+
+                                                  ITEM        TOTAL
+                                        Hazy Starlight            2
+                                          Hero Remains            5
+                                        Holy Stick [1]            4
+                                           Horong Card            5
+                                          Leaf Cat Egg            1
+                                    Mace [Drops*4] [4]            1
+                                            Medusa Egg            1
+                                    Mega Resist Potion         7606
+                                 Meteo Plate Armor [1]            1
+                          Mini Glasses [Nightmare] [1]            1
+                                         Mjolnir Stone           10
+                                     Musketeer Hat [1]            1
+                                  Nightmare Terror Egg            2
+                                          Ninja Scroll            1
+                        Orleans's Glove [Berzebub] [1]            1
+                           Orleans's Glove [Zerom] [1]            1
+                                 Pike [Magnolia*4] [4]            1
+                                 Pike [Metaller*4] [4]            1
+                                            Poring Egg            9
+                                            Ribbon [1]            3
+                                                Ripple            1
+                                              Robo Eye            1
+                                         Root of Stone            4
+                                        Rudolph's Nose            2
+                          Saphien's Armor of Ocean [1]            1
+                                           Shinobi Egg            2
+                                       Silver Ornament            8
+                                         Sinew of Bear            3
+                                        Sleipnir Stone           11
+                                          Snow Crystal            2
+
+                                                  ITEM        TOTAL
+                                        Spirit of Fish            3
+                                           Sprint Ring            1
+                                        Sputum of Bird            5
+                                  St Patrick's Hat [1]            9
+                                          Succubus Egg            2
+                                         Succubus Horn            2
+                                        Sunglasses [1]            2
+                             Sunglasses [Orc Hero] [1]            1
+                      Takius Blindfold [Dark Illusion]            1
+                             Takius Blindfold [Isilla]            1
+                                      Thor's Gauntlets            1
+                                    Thorny Buckler [1]            3
+                              Unbound Diabolus Manteau            1
+                                     Vagabond Wolf Hat            1
+                                      Valhala's Flower           91
+                                     Valkyrie Helm [1]            1
+                                      Valkyrie's Token            1
+                                  Wheel of the Unknown            3
+                                     Woman's Moustache            5
+                                     Wrath of Valkyrie            2
+                                         Yellow Ribbon            3
+                                          Zealotus Egg            4
+                                    Dark Illusion Card            2
+                                    Earth Deleter Card            1
+                                   Errende Ebecee Card            2
+                                         Gemmed Sallet            1
+                                          Lunatic Card          172
+                                           Lunatic Hat          141
+                                Novice Breastplate [1]            2
+                                         Plankton Card           14
+
+                                                  ITEM        TOTAL
+                                      Savage Bebe Card            9
+                                    Shoulder Protector          241
+                                            Solid Husk            3
+                                            Spore Card           47
+                                           Stone Arrow         7188
+                                           Stone Heart         4161
+                                              Tentacle         4304
+                                            Tiger Skin         1143
+                                        Unknown #11605           33
+                                              Bacillus          352
+                                              Belt [1]            5
+                                   Belt [PoPoring] [1]            1
+                                       Main Gauche [3]            6
+                                            Drops Card          288
+                                                  Grit          998
+                                               Phracon       101441
+                                         PoPoring Card          343
+                                           Poring Card          445
+                                            Argos Card           20
+                                          Bigfoot Card            9
+                                           Dokebi Card           33
+                                         Gargoyle Card         1647
+                                           Iron Hammer            2
+                                           Mantis Card           11
+                                        Myst Case Card           22
+                                          Obeaune Card            5
+                                        Sasquatch Card           23
+                                     Shred Of Evidence            3
+                                             Star Dust          121
+                                            Vadon Card            5
+
+                                                  ITEM        TOTAL
+                                             Yoyo Card           29
+                                         Deviling Card            1
+                                        Picky Egg Card           35
+                                            Orcish Axe            1
+                                            Jacket [1]            3
+                                      Double Bound [3]            4
+                                              Pacifier            4
+                                 Adventurer's Suit [1]           13
+                                   Morrigane's Manteau            3
+                +10 Icicle Fist [Orc Lady*2:Vadon] [3]            1
+                                   +3 Saint's Robe [1]            1
+                                             +4 Brocca            3
+                                 +4 Buckler [Horn] [1]            1
+                            +4 Holy Robe [Bathory] [1]            1
+                                        +4 Muffler [1]            1
+                            +4 Muffler [Frilldora] [1]            1
+                                          +4 Quadrille            1
+                    +6 Stone Buckler [Orc Warrior] [1]            1
+                           +7 Formal Suit [Pasana] [1]            1
+                         +7 Stone Buckler [Anubis] [1]            1
+                    +7 Stone Buckler [Mysteltainn] [1]            1
+                               Alice Doll [Willow] [1]            1
+                                        Anacondaq Card           21
+                                           Angry Snarl           22
+                                     Axe [Drops*4] [4]            1
+         BROKEN +4 Valkyrja's Shield [Khalitzburg] [1]            1
+              BROKEN +7 Stone Buckler [Thara Frog] [1]            1
+                                         Battle Manual           17
+                                       Belt [Yoyo] [1]            1
+                                 Bison Horn [Yoyo] [1]            5
+
+                                                  ITEM        TOTAL
+                                          Blue Feather           84
+                                          Broken Sword           52
+                                            Bubble Gum           17
+                                         Buche De Noel          216
+                                         Cat Santa Hat            2
+                                     Champion's Wreath            2
+                                                 China           34
+                   Classic Max Weight up Scroll 10 Box            1
+                                     Clip [Horong] [1]            9
+                                           Cookie Card            1
+                                Costume: Detective hat           53
+                               Costume: Puppy Headband          127
+                   Costume: Wickebine's Black Cat Ears          102
+                                           Creamy Card           19
+                                 Dark Crystal Fragment           33
+                                           Doom Slayer            2
+                                   Empty Potion Bottle          200
+                                       Filir's Pinions            2
+                                         First Aid Kit           85
+                                        Giant Fly Wing          728
+                                              Gold Lux            1
+                                              Harp [1]            7
+                                                   Hoe            1
+                                I Love You Firecracker         6017
+                                   Jacket [Pasana] [1]            1
+                                     Job Battle Manual          131
+                                     Level 5 Fire Bolt           72
+                                        Life Insurance           21
+                                     Luxurious Keycard            1
+                                 Mercenary Blue Potion          137
+
+                                                  ITEM        TOTAL
+                                             Mr. Smile            3
+                                Nile Rose [Smokie] [1]            2
+                                          Old Navy Box          259
+                                       Orange In Mouth            1
+                              Party Blessing 10 Scroll          416
+                                     Pecopeco Hairband            2
+                                   Piece Of Red Fabric         5854
+                              Piece Of Singing Crystal         4036
+                                  Potion Creation Gude            1
+                                           Prize Medal           30
+                                           Red Feather           55
+                                     Red Prickly Fruit           99
+                                         Rideword Card            1
+                                           Rocker Doll           34
+                                           Santa's Bag           90
+                                                 Scell         8797
+                                        Scroll Package           26
+                           Shoes [Zombie Prisoner] [1]            1
+                                Silk Robe [Dokebi] [1]            1
+                                           Slow Potion          168
+                                       Taming Gift Set           56
+                                       Teddy Bear Card            5
+                                Tentacle Cheese Gratin          160
+                                  Tough Scalelike Stem            1
+                                        Unknown #19912           62
+                                        Unknown #19920            1
+                                        Unknown #19929          128
+                                      Vital Tree Shoes            5
+                                       Wedding Bouquet           45
+                                       White Snake Hat            1
+
+                                                  ITEM        TOTAL
+                                         Wrapping Lace         4120
+                                        Wrapping Paper         4108
+                                      Xmas Firecracker          102
+                                             Xmas Gift         2389
+                                         Yellow potion         1542
++10 Combo Battle Glove [Desert Wolf*2:Orc Skeleton*2] [4]            1
+                                        Cupid's Target            1
+                                   Knuckle Dusters [3]            4
+                                             Sohee Egg           14
+                                              Yoyo Egg            5
+                                         Mole Whiskers           15
+                                           Pumpkin Pie        63754
+                                              Whip [3]            4
+                                           Apple Juice         3068
+                                           Frozen Rose           64
+                                     Green Acre Guitar            1
+                                           Long Barrel            1
+                                         Scapulare [1]            3
+                                             Staff [3]            6
+                                         Strong Branch         7899
+                                                 Frill           68
+                                           Snake Scale          136
+                                             Cardo [1]           41
+                     Classic Token of Siegfried 10 Box            2
+                                   Darkred Scale Piece          131
+                                   Dead Tree CaneStaff            4
+                                            Katzbalger           25
+                                     Spiritual Crystal            8
+                                            Brown Root          846
+                                    Fluorescent Liquid           84
+
+                                                  ITEM        TOTAL
+                                           Grape Juice          374
+                                             Huge Leaf          153
+                                        Karvodailnirol         1973
+                                         Large Jellopy          286
+                                                   Log         4440
+                                             Nut Shell            1
+                                      Orc Warrior Card           10
+                                       Pumpkin Lantern           47
+                                            Sharp Leaf         1258
+                                           Tough Vines           24
+                                       Withered Flower            2
+                                                  Aloe            6
+                                       Clip [Yoyo] [1]            4
+                                      Combat Boots [1]            1
+                               Commander's Manteau [1]            1
+                                 Elite Archer Suit [1]            1
+                                            Holy Arrow         1884
+                                      Immaterial Arrow        27943
+                                  Piece of Black Cloth          102
+                                          Aloe Leaflet         2793
+                                     Box of Drowsiness          265
+                                            Glass Bead            7
+                                          Golden Anvil           41
+                                               Ora Ora          174
+                                        Oridecon Anvil           43
+                                                Pellet           71
+                                        Stone Fragment           77
+                                         Stone of Sage           40
+                            Transparent Celestial Robe          154
+                                          Turtle Shell         1364
+
+                                                  ITEM        TOTAL
+                                             Ectoplasm          427
+                                          Decayed Nail           57
+                                    Fine-grained Trunk         1136
+                                                 Fluff         7564
+                                 Hat [Blue Acidus] [1]            1
+                                            Red Potion         3611
+                                                 Resin         4742
+                                            Spore Doll          216
+                                          Worm Peeling          686
+                                             Asura [2]            1
+                                  Bag Of Selling Goods          350
+                                          Carrot Juice          104
+                                          Damascus [1]            1
+                                             Ice Stone          648
+                                       Jack o' Pumpkin           64
+                                               Muffler            1
+                                             Santa Hat           19
+                                            Shadow Orb          550
+                                         Stolen Cookie          666
+                                     +5 Evil Bone Wand            1
+                                        +6 Grand Cross            1
+                                      Assorted Seafood           20
+                                         Snail's Shell          274
+                                           Solid Trunk            4
+                          +5 Thorny Buckler [Horn] [1]            1
+                                              Muramasa            7
+                                              Pet Food         5135
+                    +7 Valkyrian Manteau [Noxious] [1]            8
+                                    Sunset On The Rock          412
+                                  +8 Sagittarius Crown            1
+
+                                                  ITEM        TOTAL
+                                              Wand [3]            1
+                                   Black Leather Boots           18
+                                      Legacy of Dragon            6
+                                           Circlet [1]            2
+                                        Falcon Muffler            4
+                                  Grave Keeper's Sword            1
+                                             Munak Egg            3
+                                       Chicken Hat [1]            1
+                                   Huuma Calm Mind [2]           22
+                                       King Poring Hat            1
+                                          Queen's Whip            2
+                                      Robe of Cast [1]            1
+                                              Abrasive          234
+                                 +10 Composite Bow [4]            2
+                                    +10 Piercing Staff            1
+                                       +10 Waghnak [4]            4
+                                      +7 Pisces Diadem            1
+                               Benevolent Guardian [1]            1
+                                          Campfire Hat            1
+                              Green Poring Hairpin [1]            1
+                                       Memory Book [1]            1
+                               Pink Poring Hairpin [1]            1
+                                   +4 Morpheus's Shawl            1
+                                   +4 Promethean Crown            1
+                    +4 Silk Robe [DEX+3:Swordfish] [1]            1
+                          +8 Book [Orc Skeleton*3] [3]            1
+                          Cotton Shirt [Roda Frog] [1]            1
+                                      Green Maiden Egg            1
+                                        Hunter Fly Egg            1
+                                    Mantle [INT+3] [1]            5
+
+                                                  ITEM        TOTAL
+                                           War Axe [1]            3
+                                  +6 Shoes [Sohee] [1]            1
+                                       Bow Thimble [1]            2
+                                       Ivory Knife [2]            3
+                                    Hurricane Fury [1]            9
+                                        Fricco's Shoes            2
+                                              Punisher            2
+                                         Ulfhedinn [1]            7
+                                      +7 Cancer Diadem            1
+                                  Huuma Blaze Shuriken            7
+                                        +7 Muffler [1]            1
+                                          +10 Pike [4]            9
+                                          +10 Rope [4]            1
+                                         +10 Saber [3]            4
+                                   Improved Tights [1]            2
+                                         Sandstorm [4]            2
+                                 +1 Mantle [STR+3] [1]            1
+                                    +4 Coat [Pest] [1]            1
+                                  +4 Dagger of Counter            1
+                                +4 Pantie [Pasana] [1]            1
+                                     +4 Vali's Manteau            2
+                           +5 Buckler [Thara Frog] [1]            1
+     +7 Book of Mother Earth [Mandragora*2:Nereid] [3]            1
+                               +7 Buckler [Anubis] [1]            1
+                               +7 Guard [High Orc] [1]            1
+                                     Bow [Mummy*4] [4]            1
+                                             Picky Egg            1
+                                          Unicorn Horn            2
+                                          +10 Book [3]            2
+                                Dark Randgris Helm [1]            2
+
+                                                  ITEM        TOTAL
+                            Diabolus Armor [STR+2] [1]            1
+                             Leather of Tendrilion [1]            8
+                                     Nepenthes Bow [2]            5
+                                    Survivor's Manteau            3
+                                         +10 Blade [4]            6
+                                         +10 Chain [3]            1
+                               +10 Mace [Goblin*4] [4]            1
+                                         +10 Staff [3]            1
+                      +4 Full Plate [Pasana:STR+3] [1]            1
+                                         +4 Katzbalger            1
+                                  +4 Shoes [Sohee] [1]            1
+                    +4 Silk Robe [Porcellio:STR+3] [1]            2
+                               +6 Orleans's Server [1]            1
+           +7 Gladius [Desert Wolf:Orc Skeleton*2] [3]            1
+                             +7 Guard [Thara Frog] [1]            1
+                                      +7 Jeweled Sword            1
+                      +7 Silk Robe [Bathory:INT+3] [1]            1
+                                       Angel Wing Ears            1
+                                           Chewing Gum            1
+                                      Coat [AGI+3] [1]            1
+                                  Earring [Vitata] [1]            2
+                                          Gae Bolg [2]            1
+                                            Gaia Sword            1
+                                 Harp of Nepenthes [2]            1
+                                         Jeweled Sword           14
+                                  Mace [Lunatic*4] [4]            1
+                                    Mantle [AGI+3] [1]            4
+                                    Mantle [DEX+3] [1]            2
+                                    Mantle [VIT+3] [1]            1
+                                 Mink Coat [AGI+3] [1]            2
+
+                                                  ITEM        TOTAL
+                                 Mink Coat [DEX+3] [1]            1
+                                 Mink Coat [STR+3] [1]            1
+                                Mythical Lion Mask [1]            1
+                                         Poring Letter            1
+                                 Shoes [Ice Titan] [1]            1
+                                            Slayer [3]           15
+                                        Vesper Core 04           18
+                                      +5 Dragon Slayer            1
+                                       Platinum Shield            5
+                                            Alarm Card            5
+                                           Alicel Card            4
+                                            Aliot Card            1
+                                            Aliza Card            1
+                                        Alligator Card           15
+                                        Ambernite Card            6
+                                          Amon Ra Card            1
+                                    Ancient Mimic Card            5
+                                    Ancient Mummy Card            4
+                                     Ancient Worm Card            3
+                                            Andre Card           14
+                                        Andre Egg Card           19
+                                        Anopheles Card            9
+                                          Antonio Card            4
+                                           Anubis Card            2
+                                       Apocalipse Card            1
+                                          Archdam Card            2
+                                  Archer Skeleton Card            6
+                                         Arclouze Card            3
+                                          Argiope Card           24
+                                    Armeyer Dinze Card            5
+
+                                                  ITEM        TOTAL
+                                        Assaulter Card            1
+                                            Aster Card            3
+                                  Baby Desertwolf Card           17
+                                     Baby Leopard Card            4
+                                        Bapho Jr. Card            4
+                          Baroness of Retribution Card            3
+                                          Bathory Card            8
+                                      Beetle King Card            5
+                                 Bloody Butterfly Card            4
+                                    Bloody Knight Card            2
+                                      Blue Acidus Card            3
+                                     Bow Guardian Card            4
+                                           Breeze Card            2
+                                         Brilight Card            5
+                                          Byorgue Card            2
+                                          Caramel Card            5
+                                            Carat Card            3
+                                Cat O' Nine Tails Card            3
+                                      Caterpillar Card            2
+                                      Cecil Damon Card           32
+                                          Chimera Card            5
+                                            Clock Card            3
+                                     Cloud Hermit Card            2
+                                             Coco Card           11
+                                           Condor Card           25
+                                         Cornutus Card           11
+                                             Crab Card            2
+                                            Cramp Card            4
+                                      Creamy Fear Card            3
+                                          Cruiser Card            5
+
+                                                  ITEM        TOTAL
+                                       Death Word Card           11
+                                     Demon Fungus Card            3
+                                      Desert Wolf Card            7
+                              Despero of Thanatos Card            1
+                                          Deviace Card            2
+                                        Deviruchi Card           19
+                                         Diabolic Card            2
+                                            Dimik Card            6
+                                         Disguise Card            6
+                                Dolor of Thanatos Card            3
+                                       Dragon Egg Card           17
+                                      Dragon Tail Card            3
+                                        Drainliar Card            7
+                                          Driller Card            2
+                                            Dryad Card            1
+                                         Dullahan Card            3
+                                     Dumpling Kid Card            8
+                                        Dustiness Card           10
+                                     Earth Petite Card            3
+                                            Echio Card            2
+                                          Eclipse Card            1
+                                           Eggyra Card            8
+                                    Egnigem Cenia Card            2
+                                         Gajomart Card            4
+                                           Galion Card            3
+                                           Gazeti Card            3
+                                            Ghoul Card           24
+                                     Giant Hornet Card            5
+                                     Giant Spider Card            4
+                                    Giant Whisper Card            1
+
+                                                  ITEM        TOTAL
+                                           Gibbet Card            5
+                                          Giearth Card            3
+                                             Goat Card            1
+                                    Goblin Archer Card            5
+                                           Goblin Card           29
+                                Goblin Steamrider Card            3
+                                      Gold Acidus Card           10
+                                            Golem Card           10
+                                 Greatest General Card            4
+                                          Gremlin Card           11
+                                          Grizzly Card            4
+                                            Grove Card            6
+                                     Gullinbursti Card            4
+                                            Harpy Card            3
+                                       Hatii Bebe Card            2
+                                           Heater Card            4
+                                      Hell Poodle Card            2
+                                     Hermit Plant Card            5
+                                         High Orc Card           19
+                                        Hill Wind Card            6
+                                             Hode Card            7
+                                        Hodremlin Card            1
+                                             Horn Card           27
+                                       Hunter Fly Card            1
+                                            Hydra Card            6
+                                        Ice Titan Card            3
+                                              Imp Card           10
+                                        Injustice Card           25
+                                             Isis Card            8
+                                             Jakk Card            4
+
+                                                  ITEM        TOTAL
+                                        Jing Guai Card            8
+                                            Joker Card            6
+                                             Kasa Card           46
+                                  Kathryne Keyron Card           33
+                                      Khalitzburg Card            8
+                                    Killer Mantis Card            4
+                                    Kobold Archer Card           10
+                                           Kobold Card           18
+                                    Kobold Leader Card            4
+                                           Kraben Card            4
+                                            Kukre Card           10
+                                      Lady Solace Card            5
+                                  Laurell Weinder Card            6
+                                         Leaf Cat Card            7
+                                       Leib Olmai Card            4
+                                             Lude Card            9
+                                Maero of Thanatos Card            5
+                                        Magmaring Card            8
+                                         Magnolia Card            5
+                                        Majoruros Card            2
+                                    Male Thiefbug Card            7
+                                       Mandragora Card           19
+                                         Mao Guai Card            1
+                                           Marduk Card            2
+                                 Margaretha Sorin Card           11
+                                            Marin Card            1
+                                           Marina Card            6
+                                    Marine Sphere Card            4
+                                       Marionette Card            9
+                                            Marse Card            8
+
+                                                  ITEM        TOTAL
+                                           Martin Card            4
+                                        Mastering Card            1
+                                        Megalodon Card            6
+                                           Merman Card            2
+                                         Metaller Card            3
+                                            Mimic Card            2
+                                          Mineral Card            3
+                                       Mini Demon Card            1
+                                         Minorous Card            1
+                              Mistress of Shelter Card            1
+                                      Miyabi Doll Card            6
+                                          Mobster Card            1
+                                             Muka Card           10
+                                            Munak Card            4
+                                             Myst Card            3
+                                      Mysteltainn Card            3
+                                      Necromancer Card            1
+                                           Nereid Card            3
+                                         Obsidian Card            2
+                                       Orc Archer Card            6
+                                         Orc Baby Card            2
+                                     Orc Skeleton Card            3
+                                       Orc Zombie Card            6
+                                    Panzer Goblin Card            4
+                                         Parasite Card           10
+                                           Pasana Card            2
+                                         Pecopeco Card           11
+                                     Pecopeco Egg Card           12
+                                         Penomena Card            2
+                                             Pest Card            1
+
+                                                  ITEM        TOTAL
+                                            Picky Card           27
+                                      Pirate Skel Card            9
+                                           Pitman Card            6
+                                           Plasma Card            8
+                                     Poison Spore Card           18
+                                   Poisonous Toad Card            6
+                                             Pupa Card            8
+                                             Quve Card            6
+                                        Rafflesia Card            5
+                                          Raggler Card           10
+                                   Raydric Archer Card            2
+                                        Red Ferus Card            7
+                                        Red Novus Card           12
+                                           Rocker Card           22
+                                      Rotar Zairo Card            6
+                                        Sage Worm Card            2
+                                       Salamander Card           10
+                                          Sandman Card            7
+                                           Savage Card           27
+                                         Scorpion Card           20
+                                       Shell Fish Card            9
+                                       Sidewinder Card           10
+                                           Siroma Card            8
+                                         Skeleton Card           14
+                                 Skeleton General Card            3
+                                      Sky Deleter Card            3
+                                       Sky Petite Card            6
+                                          Sleeper Card            4
+                                           Smokie Card            9
+                                            Snake Card            7
+
+                                                  ITEM        TOTAL
+                                 Soldier Skeleton Card            9
+                                          Solider Card            4
+                                          Stainer Card           12
+                                  Stalactic Golem Card            4
+                                            Stapo Card            4
+                                   Steel Chonchon Card           10
+                                        Stem Worm Card            5
+                                            Sting Card            3
+                                    Stone Shooter Card            7
+                                           Strouf Card            7
+                                         Succubus Card            3
+                                          Tamruan Card            4
+                                            Tarou Card           30
+                                            Tengu Card            2
+                                       Thara Frog Card            5
+                                        Thief Bug Card           29
+                                     Thiefbug Egg Card           44
+                                             Toad Card            5
+                                        Ungoliant Card            2
+                                    Vagabond Wolf Card            2
+                                           Venatu Card           21
+                                         Venomous Card            9
+                                            Vocal Card            3
+                                         Wanderer Card            5
+                                   Wickebine Tres Card            3
+                                        Wild Rose Card            8
+                                           Willow Card           35
+                                     Wooden Golem Card            1
+                                   Wootan Fighter Card            7
+                                   Wootan Shooter Card            7
+
+                                                  ITEM        TOTAL
+                                         Wormtail Card           13
+                                      Wraith Dead Card            5
+                                           Zenorc Card            3
+                                      Zipper Bear Card            6
+                                  Zombie Prisoner Card            1
+                                            Alice Card            3
+                                         Beholder Card            1
+                                  Bloody Murderer Card            2
+                                       Dark Frame Card            1
+                                     Elder Willow Card            5
+                             Enchanted Peach Tree Card            1
+                                     Eremes Guile Card            6
+                                       Evil Druid Card            2
+                                       Evil Nymph Card            4
+                                      Executioner Card            1
+                                        Explosion Card            3
+                                            Fabre Card           20
+                                      False Angel Card            3
+                                         Familiar Card           14
+                                  Female Thiefbug Card           25
+                                      Flame Skull Card           30
+                                            Flora Card           12
+                                          Freezer Card            2
+                                        Frilldora Card            2
+                                         Fur Seal Card            5
+                                         Galapago Card            1
+                                       Gemini-S58 Card            2
+                                     Green Maiden Card            1
+                                        Hylozoist Card            2
+                                            Kapha Card            5
+
+                                                  ITEM        TOTAL
+                                         Karakasa Card            6
+                                    Kavach Icarus Card            1
+                                        Loli Ruri Card            2
+                                             Marc Card            1
+                                            Matyr Card            1
+                                         Megalith Card            3
+                                         Metaling Card            6
+                                            Mummy Card            7
+                                        Nightmare Card            2
+                                 Nightmare Terror Card            3
+                                        Nine Tail Card            2
+                                          Noxious Card            8
+                                Odium of Thanatos Card            1
+                                        Owl Baron Card            1
+                                         Permeter Card            1
+                                             Phen Card            3
+                                         Phendark Card            2
+                                        Porcellio Card            1
+                                             Punk Card            2
+                                    Ragged Zombie Card            1
+                                          Raydric Card            1
+                                          Remover Card            1
+                                          Requiem Card            9
+                                           Roween Card            3
+                                            Rybio Card            2
+                                           Seeker Card            2
+                                   Seyren Windsor Card            9
+                                          Shinobi Card            2
+                                    Skel Prisoner Card            1
+                                          Snowier Card            1
+
+                                                  ITEM        TOTAL
+                                            Sohee Card            6
+                                        Swordfish Card            9
+                                        The Paper Card            2
+                                     Tower Keeper Card            3
+                                        Tri Joint Card            9
+                                            Verit Card            2
+                                           Vitata Card            4
+                                      Waste Stove Card            1
+                                          Whisper Card            4
+                                       Wind Ghost Card            1
+                                           Wraith Card            5
+                                          Yao Jun Card            3
+                                     Yellow Novus Card            6
+                                            Zerom Card            6
+                                    Zombie Master Card            2
+                                 Zombie Slaughter Card            4
+                                          Ancient Lips           13
+                                         Ancient Tooth           20
+                                         Antelope Skin            4
+                                    Bookclip in Memory           10
+                                          Broken Shell           49
+                                               Bug Leg         1678
+                                            Burnt Part          244
+                                             Chung Jah            7
+                                            Clam Flesh          642
+                                            Clam Shell         4676
+                                              Cogwheel           42
+                                                 Conch         1453
+                                            Crab Shell         6164
+                                         Crystal Arrow          654
+
+                                                  ITEM        TOTAL
+                                        Cultish Masque           97
+                                     Earthworm Peeling         3056
+                               Elder Pixie's Moustache           10
+                                        Eye of Hellion            3
+                                      Feather of Birds         1383
+                                             Fish Tail         4802
+                                         Flexible Tube         1801
+                              Folding Fan of Cat Ghost           27
+                                     Fragment of Agony          101
+                                   Fragment of Despair          114
+                                    Fragment of Hatred          125
+                                    Fragment of Misery          106
+                                                  Gill         6731
+                                     Grasshopper's Leg          499
+                                         Harpy Feather           29
+                                           Harpy Talon           23
+                                               Hinalle            1
+                                       Hinalle Leaflet           44
+                                                  Horn         4161
+                                             Horseshoe           42
+                                    Kafra Legend Vol.1            7
+                                          Leopard Claw            2
+                                      Level 6 Cookbook            3
+                                         Maneater Root          157
+                                        Metal Fragment          170
+                                          Mini Furnace           46
+                                                Nipper         4572
+                                             Oil Paper        12004
+                                           Old Manteau          124
+                                   Orange Net Mushroom          953
+
+                                                  ITEM        TOTAL
+                                        Payon Solution           78
+                                      PecoPeco Feather           11
+                                       Piece of Bamboo         8214
+                                           Poring Doll           28
+                                           Rotten Meat           23
+                                           Round Shell          314
+                                   Rusty Kitchen Knife          114
+                                         Scorpion Tail           90
+                                           Sharp Scale         6305
+                                         Singing Plant           26
+                                           Single Cell         6003
+                                           Slick Paper         3936
+                                             Squid Ink          716
+                                          Stinky Scale           28
+                                        Suspicious Hat           57
+                                             Toxic Gas            1
+                                                Tuxedo            2
+                                       Used Iron Plate           42
+                                       Witherless Rose           32
+                                         Alice's Apron          272
+                                         Bill of Birds            3
+                                        Black Cat Doll           81
+                                Blade Lost in Darkness          103
+                                           Bloody Page           26
+                                             Blue Hair          141
+                                               Bouquet           26
+                                     Broken Liquor Jar            7
+                                         Broken Needle          118
+                                       Broken Shuriken           91
+                                     Burning Horseshoe           72
+
+                                                  ITEM        TOTAL
+                                            Burnt Tree           38
+                               Chef King Orleans Vol.1            2
+                                             Chrysalis           20
+                               Contorted Self-Portrait           49
+                                           Cursed Seal           36
+                                             Dark Mask           46
+                                           Dragon Horn           22
+                                      Drosera Tentacle            6
+                                        Dust Pollutant            2
+                                          Elastic Band           70
+                                                  Fang          685
+                                         Festival Mask            1
+                                             Fine Sand           25
+                                            Flashlight            7
+                                                Flower         5554
+                                              Fragment         1915
+                                  Giant Butterfly Wing           13
+                                         Glitter Shell            1
+                                       Golden Ornament           24
+                                      Helm of Dullahan         1678
+                                             Honey Pot           17
+                                             Hung Doll           83
+                                            Insect Leg           48
+                                                Izidor           10
+                                               Lantern           34
+                                          Leopard Skin         2662
+                                     Little Ghost Doll           10
+                                            Matchstick           27
+                                             Mole Claw            3
+                                            Moth Wings            2
+
+                                                  ITEM        TOTAL
+                                          Mould Powder           74
+                                            Munak Doll            3
+                                             Nose Ring          100
+                                        Nursing Bottle           62
+                                            Ogre Tooth         1183
+                                              Old Hilt           93
+                                              Old Pick           65
+                                          Old Portrait            2
+                                          Old Shuriken           29
+                                              Orc Claw            5
+                                    Piece of Egg Shell         1290
+                                              Pinafore           49
+                                     Pincher of Beetle            2
+                                         Pointed Scale            1
+                                      Poisonous Powder          242
+                                          Raccoon Leaf            1
+                                              Rat Tail           17
+                                             Red Chile           41
+                                             Red Frame           96
+                                           Red Muffler         4754
+                                        Reptile Tongue           12
+                                            Sand Clump           21
+                                           Scale Shell           64
+                                         Scorpion Claw           34
+                                         Sea-otter Fur            1
+                                           Sharp Paper           13
+                                         Shining Scale          109
+                                                 Shoot         1924
+                                       Skirt of Virgin            8
+                                             Slingshot          293
+
+                                                  ITEM        TOTAL
+                                   Soft Blade of Grass           39
+                                           Solid Peach           51
+                                            Spoon Stub           20
+                                                Sprout           35
+                                         Sticky Poison           82
+                                   Strange Steel Piece            7
+                                          Straw Basket           44
+                                          Striped Sock          219
+                                                 Talon            3
+                                        Tangled Chains         5615
+                                            Tengu Nose            5
+                                           Tiger Panty            9
+                                           Torn Scroll           29
+                                     Transparent Plate            1
+                                             Tree Root            6
+                                        Unknown #25025            2
+                                        Unknown #25026            2
+                                                  Vane            2
+                                            White Mask           17
+                                  Will of Red Darkness          114
+                                       Worn-out Kimono           18
+                                 Worn-out Magic Scroll           30
+                                                  Yarn           15
+                                          Banana Juice         2904
+                                                   Bao           19
+                                  Condensed Red Potion          912
+                               Condensed Yellow Potion           14
+                                                   Egg           72
+                                    Fried Monkey Tails           32
+                                          Fruit Basket            1
+
+                                                  ITEM        TOTAL
+                                         Golden Hammer            1
+                                         Guarana Candy           26
+                                     Holy Arrow Quiver           25
+                                             Ice Cream           14
+                                         Ice Fireworks            4
+                               Immaterial Arrow Quiver          767
+                                  Kobold's Agile Snack            1
+                              Kobold's Dexterous Snack            1
+                            Kobold's Intelligent Snack            1
+                                  Kobold's Lucky Snack            1
+                                  Kobold's Ration Pack           20
+                                  Kobold's Vital Snack            1
+                                     Level 1 Fire Ball           35
+                                     Level 1 Fire Wall           27
+                                   Level 1 Frost Diver           27
+                                     Level 3 Cold Bolt           28
+                                   Level 3 Earth Spike           24
+                               Level 3 Lightening Bolt           29
+                                   Level 3 Soul Strike           43
+                                     Level 5 Cold Bolt           56
+                                   Level 5 Earth Spike           53
+                                     Level 5 Fire Ball           70
+                                     Level 5 Fire Wall           82
+                                   Level 5 Frost Diver           53
+                                          Level 5 Heal           77
+                                   Level 5 Soul Strike           43
+                                       Mysterious Seed           30
+                                 Oridecon Arrow Quiver           21
+                                                Potato          168
+                                         Prickly Fruit          214
+
+                                                  ITEM        TOTAL
+                                              Raw Fish           44
+                                             Rice Cake           18
+                                     Royal Cooking Kit           23
+                                   Silver Arrow Quiver           82
+                                           Silver Coin            7
+                                    Soul Haunted Bread            1
+                      Steamed Alligator with Vegetable           15
+                                 Traditional Rice Cake            1
+                                      Vagabond's Skull            1
+                                  White Potion 100 Box           49
+                                           Whole Roast           19
+                            Sharpened Legbone of Ghoul            1
+               +4 Glittering Jacket [Pasana:STR+3] [1]            1
+                                 +4 Muffler [Jakk] [1]            1
+                  +4 Orleans's Gown [Dokebi:INT+3] [1]            1
+                        +4 Orleans's Gown [Dokebi] [1]            1
+                   +4 Silk Robe [Evil Druid:INT+3] [1]            1
+                           +4 Undershirt [Whisper] [1]            1
+                                +4 Witch's Pumpkin Hat            1
+                       +5 Silk Robe [INT+3:Pasana] [1]            1
+                         +7 Brave Battle Strategy Book            1
+                    +7 Glittering Jacket [Bathory] [1]            1
+                       +7 Glittering Jacket [Pest] [1]            1
+            +8 Staff of Destruction [Doppelganger] [1]            1
+                                    +9 Chicken Hat [1]            2
+                                 Adrenaline Scroll Box            1
+                             Baby Desert Wolf Egg [?1]            1
+                                          Bag of Grain          498
+                                            Bongun Egg            1
+                                      Bowman Scroll 10           10
+
+                                                  ITEM        TOTAL
+                                                   Bun         1131
+                                           Carrot Whip            2
+                                              Chef Hat            1
+                                              Claw [2]            3
+                             Diabolus Robe [AGI+3] [1]            1
+                                    Fried Sweet Potato           93
+                                             Gold Coin           22
+                                     Grilled Rice Cake         1953
+                                      Home Cooking Kit          258
+                                     Kafra Blue Potion           41
+                                 LV5 Adrenaline Scroll           13
+                                     Light Blue Potion           90
+                                      Lucifer's Lament            1
+                                    Mantle [Clock] [1]            1
+                                  Mercenary Red Potion            4
+                                  Orc Warrior Egg [?1]            1
+                                   Outdoor Cooking Kit            8
+                                   Pirate Eyepatch Box           14
+                                        Puppy Headband            1
+                                             Soft Silk           33
+                                    Sparkling Necklace            1
+                                          Stiletto [3]            1
+                                       Sumptuous Feast           18
+                                              The Sign            1
+                               Thorn Staff of Darkness            1
+                           Translated Ancient Language            1
+                                Unbound Diabolus Boots            5
+                                 Unbound Diabolus Robe            2
+                                 Unbound Odin Blessing            1
+                                      Unbound Ulle Cap            1
+
+                                                  ITEM        TOTAL
+                              Unbound Valkyrie Manteau            1
+                                        Unknown #14575            2
+                                        Unknown #14576            4
+                                        Unknown #14577            4
+                                        Unknown #14578            3
+                                        Unknown #14579            2
+                                  Warlock's Magic Wand            1
+                                          Arc Wand [1]            1
+                                               Circlet            2
+                                             Silk Robe            1
+                   +5 Parade Hat [Stalactic Golem] [1]            1
+                                                   Pot         1010
+                                           Spicy Sauce         1010
+                                   VVS Damascus [Fire]           26
+                                   VVS Damascus [Wind]            8
+                                       VVS Dirk [Wind]            1
+                                          +4 Long Mace            1
+                               +4 Ribbon [Giearth] [1]            1
+                      +4 Silk Robe [Bathory:DEX+3] [1]            1
+                    +4 Silk Robe [LUK+3:Red Novus] [1]            1
+                       +4 Valkyrja's Shield [Horn] [1]            4
+                                   +4 Vital Tree Shoes            1
+                                      +4 Yellow Ribbon            2
+                                 +5 Shoes [Am Mut] [1]            1
+                                +6 Witch's Pumpkin Hat            1
+                                   +7 Deviling Hat [1]            1
+                +7 Valkyrja's Shield [Flame Skull] [1]            1
+                                     Clip [Mantis] [1]            1
+                              Cotton Shirt [Picky] [1]            1
+                                         Damp Darkness          928
+
+                                                  ITEM        TOTAL
+                                Mithril Magic Cape [1]            3
+                                  Sandals [Am Mut] [1]            1
+                            Sandals [Ancient Worm] [1]            7
+                        Sandals [Christmas Cookie] [1]            2
+                               Sandals [Iron Fist] [1]            2
+                                   Shadowmancer's Helm            1
+                                    Shoes [Am Mut] [1]            3
+                              Shoes [Ancient Worm] [1]            1
+                                 Shoes [Iron Fist] [1]            2
+                                  Speedy Recovery Wand            1
+                                  Strong Recovery Wand            1
+             +10 Composite Bow [Baphomet:Randgris] [4]            1
+                                    +4 Apple of Archer            1
+                 +4 Elite Archer Suit [DEX+3:Marc] [1]            1
+                     +4 Rider Insignia [Bapho Jr.] [1]            1
+                                    +5 Burning Bow [1]            1
+                           +6 Combat Boots [Matyr] [1]            1
+                  +6 Commander's Manteau [Noxious] [1]            1
+                             +7 Frozen Bow [Vadon] [1]            1
+                           +8 Valorous Battle CrossBow            1
+                                              Big Cell         4616
+                       Bison Horn [Wickebine Tres] [1]            1
+                               Bow Thimble [Zerom] [1]            1
+                                  Bright Red Dress Hat            1
+                                Clip [Hell Poodle] [1]            1
+                             Clip [Wickebine Tres] [1]            2
+                        Composite Bow [Metaling*4] [4]            1
+                         Elite Archer Suit [AGI+3] [1]            1
+                         Elite Archer Suit [LUK+3] [1]            1
+                                    Feudal Lord Permit            1
+
+                                                  ITEM        TOTAL
+                                             Gaia Whip            1
+                    Goddess of Fortune's Cursed Brooch            3
+                                            Iron Arrow         4933
+                                                Jacket            1
+                                       Orc Warrior Egg            4
+                                        Oridecon Arrow        30019
+                                           Rusty Arrow         4899
+                                        Tights [AGI+3]            2
+                                        Tights [DEX+2]            1
+                                        Tights [LUK+3]            1
+                             +4 Gigantic Magestic Goat            2
+                                          +6 Grimtooth            2
+                         +7 Brave  Assassin's Damascus            1
+                                       +8 Orcish Sword            1
+                       +8 Valorous Assassin's Damascus            1
+                        Assaulter Plate [Cornutus] [1]            1
+                       Assaulter Plate [Porcellio] [1]            6
+                         Assaulter Plate [Sandman] [1]            1
+                                       Assaulter Spear            1
+                                     BROKEN Ninja Suit            1
+                                 Captain's Manteau [1]            6
+                              Coat [Bathory:VIT+1] [1]            1
+                                        Mini Propeller            1
+                                         Romantic Leaf            2
+                                  VVS Damascus [Earth]            1
+   +10 Mace [Abysmal Knight*2:Santa Poring:Strouf] [4]            1
+                            +10 Mace [Drainliar*4] [4]            1
+          +10 Main Gauche [Drainliar*2:Minorous*2] [4]            1
+                            +5 Brave Insane Battle Axe            1
+                                          +5 Red Beret            1
+
+                                                  ITEM        TOTAL
+                                             +7 Brocca            1
+                                   +7 Immaterial Sword            1
+                                      +8 Earth Bow [1]            1
+                                           +8 Ice pick            1
+                               +8 Orleans's Server [1]            1
+                                               +9 Edge            1
+                           Assaulter Plate [STR+3] [1]            1
+                                    Black Devil's Mask            1
+                               Black Frame Glasses [1]            1
+                                         Bloody Branch            1
+                                      Clip [Violy] [1]            1
+                                     Dark Bacilium [1]           28
+                                          Drosera Card            1
+                                      Fairy Flower [1]            1
+                                        Flame Gemstone         3000
+                                         Giant Octopus           10
+                                         Loli Ruri Egg            1
+                                  Magic Bible Vol1 [1]            2
+                                        Marionette Egg            1
+                                      MasterSmith Card            1
+                           Nidhoggur's Shadow Garb [1]            1
+                                        Ogretooth Card            1
+                                           Piggie Bank            1
+                                      Rideword Hat [1]            1
+                                     Small Snow Flower           32
+                                       Snowman Hat [1]            1
+                                             Spore Egg            4
+                                        Unknown #19898            1
+                                          Vanberk Card            1
+                                Wasteland's Outlaw [2]            1
+
+                                                  ITEM        TOTAL
+                     +7 Stone Buckler [Sky Petite] [1]            1
+                   +7 Valkyrja's Shield [Penomena] [1]            1
+                                   Abysmal Knight Card            1
+                                    Erde [Fabre*2] [2]            1
+                                   Necklace [Yoyo] [1]            2
+                                        Unknown #19506            1
+                                       +7 Combat Knife            1
+                                                 Arrow         2578
+                                           Bark Shorts            1
+                                               Bow [3]            3
+                                            Buster [2]            8
+                                           Flash Arrow           92
+                                               Goggles            1
+                                            Green Lace            1
+                                            Katana [3]            3
+                                   Marionette Doll [1]            1
+                                      Morning Star [2]            6
+                          Party Increase Agi 10 Scroll          160
+                                            Rapier [2]            1
+                                           Silk Ribbon            1
+                  +7 Dark Bacilium [Dark Illusion] [1]            1
+                                                  Halo            1
+                                         Earth Bow [1]            6
+                                          Murasame [1]            2
+                                     Electric Fist [3]            1
+                                         Gangster Mask            1
+                                           Red Bandana            2
+                                         Electric Wire            4
+                              High Fashion Sandals [1]            1
+                                      Curved Sword [2]            5
+
+                                                  ITEM        TOTAL
+                                      +4 Goibne's Helm            1
+                                           Berdysz [2]            2
+                                   Wild Beast Claw [1]            3
+                     +4 Gungnir [Abysmal Knight*2] [2]            1
+                           +8 Book [Desert Wolf*3] [3]            1
+                                                 Lance            1
+                                Ethereal Orc Boots Box          178
+                                     Crown of Mistress           34
+                                       Abrasive 10 Box            3
+                     Classic Dungeon Teleport 1 10 Box            6
+                         Classic Giant Flywing 500 Box            1
+                                  Classic Robo Eye Box            1
+                               Costume: Bijofnil Wings           10
+                             Costume: Crescent Hairpin           12
+                              Glass of Illusion 10 Box            3
+                                HE Battle Manual 5 Box            1
+                                      LV10 Agil Scroll            2
+                                  LV10 Blessing Scroll            1
+                         Mystical Amplification Scroll          120
+                              Party Assumptio 5 Scroll          134
+                                        Unknown #19212            8
+                                   WoE Teleport Scroll            1
+                                         Feather Beret            1
+                                             Ice Scale           42
+                                    Mantle [VIT+1] [1]            1
+             +8 Staff of Destruction [Necromancer] [1]            1
+                                           Fresh Plant          349
+                                         Round Feather            1
+                                              Wand [2]            1
+                                 Green Maiden Egg [?1]            1
+
+                                                  ITEM        TOTAL
+                     Warlock's Battle Robe [AGI+3] [1]            1
+                         Elite Archer Suit [DEX+2] [1]            1
+                           +5 Valorous Gladiator Blade            1
+                      +9 Valkyrja's Shield [Alice] [1]            1
+                                 Brave Gladiator Blade            1
+                       +5 Brave Assaulter's Katzbalger            1
+                                    +7 Assaulter Spear            1
+                                           +5 Ice pick            1
+                                +7 VVS Damascus [Fire]            1
+                                    Clip [Sleeper] [1]            2
+                                          Guisarme [3]            6
+                                   Poisonous Toad Skin          243
+                                          Yellow Plate         6609
+                          +8 Hunting Spear [Hydra] [1]            2
+                   +4 Ulle's Cap [Stalactic Golem] [1]            8
+           +7 Scalpel [Desert Wolf:Orc Skeleton*2] [3]            8
+                      Elven Ears [Stalactic Golem] [1]            8
+                                     Ring [Smokie] [1]            8
+                                               +4 Edge            8
+                          +9 Main Gauche [Drops*4] [4]            4
+                      Battle Greave [Ancient Worm] [1]            5
+                          Strong Shield [High Orc] [1]            5
+                         +10 Main Gauche [Drops*4] [4]            1
+                   +4 Valkyrian Armor [AGI+3:Marc] [1]            1
+                                Rosary [Alligator] [1]            1
+                          +8 Main Gauche [Drops*4] [4]            2
+                                          Bloody Shell        84217
+                                                Bullet         1950
+                                           Cyclone [1]            1
+                        Elite Shooter Suit [AGI+3] [1]            1
+
+                                                  ITEM        TOTAL
+                                      Flavored Alcohol          150
+                                     Rolling Stone [1]            1
+                                         Silver Bullet        67357
+                                            Branch [3]            2
+                                      Crimson Bolt [1]            1
+                                           Morning Dew          408
+                                   Fish With Blue Back          335
+                          +4 Thorny Buckler [Horn] [1]            1
+                                      +6 Yellow Ribbon            1
+                     +8 Composite Bow [Metaller*4] [4]            1
+                            Brave  Assassin's Damascus            1
+                                          Frozen Arrow            1
+                            +7 Muffler [Frilldora] [1]            1
+                                         Apple Pudding           52

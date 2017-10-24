@@ -1,0 +1,8 @@
+[nov 6 00:53:23 2015.80] [connection] error: out of sync with server
+[nov 7 04:40:08 2015.33] [connection] error: out of sync with server
+[nov 8 08:26:46 2015.25] [connection] error: out of sync with server
+[nov 9 12:13:24 2015.66] [connection] error: out of sync with server
+[nov 10 16:00:07 2015.61] [connection] error: out of sync with server
+[nov 11 19:46:50 2015.17] [connection] error: out of sync with server
+[nov 12 23:33:32 2015.19] [connection] error: out of sync with server
+[nov 14 03:20:00 2015.31] [connection] error: out of sync with server
