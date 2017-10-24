@@ -1,3 +1,5 @@
+// Just a class used to test stuff.
+
 import java.util.*;
 import java.io.*;
 
