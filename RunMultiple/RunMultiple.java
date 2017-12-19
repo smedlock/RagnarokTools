@@ -29,27 +29,31 @@ public class RunMultiple {
    // using the accountInfos list, modifies the config file to run an openkore client using that account info
    public static void modifyAndRunPrograms(ArrayList<String> accountInfos) throws FileNotFoundException, IOException {
       for (String accountInfo : accountInfos) {
-         File dooops = new File("control\\config.txt");
-         File doopa = new File("control\\config1.txt");
-         dooops.renameTo(doopa);
-         Scanner input = new Scanner(doopa);
-         PrintStream output = new PrintStream(dooops);
-         String line = "";
-         while (input.hasNextLine()) {
-            line = input.nextLine();
-            if (line.startsWith("username")) {
-               output.println("username " + accountInfo.split(" ")[0]);
-            } else if (line.startsWith("password")) {
-               output.println("password " + accountInfo.split(" ")[1]);
-            } else {
-               output.println(line);
+         if (!accountInfo.startsWith("#")) {
+            File dooops = new File("control\\config.txt");
+            File doopa = new File("control\\config1.txt");
+            dooops.renameTo(doopa);
+            Scanner input = new Scanner(doopa);
+            PrintStream output = new PrintStream(dooops);
+            String line = "";
+            while (input.hasNextLine()) {
+               line = input.nextLine();
+               if (line.startsWith("username")) {
+                  output.println("username " + accountInfo.split(" ")[0]);
+               } else if (line.startsWith("password")) {
+                  output.println("password " + accountInfo.split(" ")[1]);
+               } else if (line.startsWith("char")) {
+                  output.println("char " + accountInfo.split(" ")[2]);
+               } else {
+                  output.println(line);
+               }
             }
-         }
-         runProgram();
-         try {
-            Thread.sleep(5000);
-         } catch (InterruptedException e) {
-      
+            runProgram();
+            try {
+               Thread.sleep(3000);
+            } catch (InterruptedException e) {
+         
+            }
          }
       }
    }
