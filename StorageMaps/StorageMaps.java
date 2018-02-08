@@ -18,7 +18,6 @@ public class StorageMaps {
       TreeMap<String, TreeMap<String, Integer>> superTable = new TreeMap<String, TreeMap<String, Integer>>();
       ArrayList<String> accounts = getAccounts();
       superTable = addAccounts(superTable, accounts);
-      makeTextDocument(superTable, accounts);
       makeCsvDocument(superTable, accounts);
    }
    
@@ -72,95 +71,6 @@ public class StorageMaps {
          }
       }
       return superTable;
-   }
-   
-   // makes a text document in the form of a table with items on the left and accounts on the top.  This
-   // version will print the TOTAL column next to the ITEM column.
-   public static void makeTextDocument(TreeMap<String, TreeMap<String, Integer>> superTable, ArrayList<String> accounts) throws FileNotFoundException {
-      // make the tableName
-      String tableName = "";
-      Date today = new Date();
-      int day = today.getDate();
-      int month = today.getMonth() + 1;
-      int year = today.getYear() + 1900;
-      if (PRINTACCOUNTS) {
-         tableName += "logs\\superTable" + "(" + month + "-" + day + "-" + year + ").txt";
-      } else {
-         tableName += "logs\\superTable" + "(" + month + "-" + day + "-" + year + "clean).txt";
-      }
-      PrintStream superTableFile = new PrintStream(new File(tableName));
-      
-      // begin filling in the table
-      printHeader(accounts, superTableFile);
-      Set<String> recordedItems = new TreeSet<String>();
-      String[] values = new String[accounts.size()];
-      int iter = 0;
-      int lineCount = 0;
-      int itemCount = 0;
-      int total = 0;
-      String totalString = "";
-      for (String account1 : accounts) {
-         for (String item : superTable.get(account1.split("_")[1]).keySet()) {
-            if (!recordedItems.contains(item)) {
-               for (int i = 0; i < 54 - item.length(); i++) {
-                  superTableFile.print(" ");
-               }
-               superTableFile.print(item);
-               for (String account2 : accounts) {
-                  if (superTable.get(account2.split("_")[1]).containsKey(item)) {
-                     total += superTable.get(account2.split("_")[1]).get(item);
-                     values[iter] = superTable.get(account2.split("_")[1]).get(item) + "";
-                  } else {
-                     values[iter] = "0";
-                  }
-                  iter++;
-               }
-               totalString = total + "";
-               for (int i = 0; i < 13 - totalString.length(); i++) {
-                  superTableFile.print(" ");
-               }
-               superTableFile.print(total);
-               
-               // prints individual account values
-               if (PRINTACCOUNTS) {
-                  for (String value : values) {
-                     for (int i = 0; i < 13 - value.length(); i++) {
-                        superTableFile.print(" ");
-                     }
-                     superTableFile.print(value);
-                  }
-               }
-               
-               superTableFile.println();
-               iter = 0;
-               total = 0;
-               recordedItems.add(item);
-               lineCount++;
-               if (lineCount == 30) {
-                  lineCount = 0;
-                  superTableFile.println();
-                  printHeader(accounts, superTableFile);
-               }
-            }
-         }
-      }
-   }
-   
-   // Prints the header of the table with the TOTAL column next to the ITEM column
-   public static void printHeader(ArrayList<String> accounts, PrintStream superTableFile) {
-      superTableFile.print("                                                  ITEM        TOTAL");
-      
-      // prints all account names to head columns
-      if (PRINTACCOUNTS) {
-         for (String account : accounts) {
-            for (int i = 0; i < 13 - account.split("_")[1].length(); i++) {
-               superTableFile.print(" ");
-            }
-            superTableFile.print(account.split("_")[1]);
-         }
-      }
-      
-      superTableFile.println();
    }
    
    // makes a csv file in the form of a table with items on the left and accounts on the top.  This
