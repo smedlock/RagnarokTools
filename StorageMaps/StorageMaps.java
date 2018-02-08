@@ -9,14 +9,17 @@ import java.util.*;
 import java.io.*;
 
 public class StorageMaps {
+
    public static final boolean PRINTACCOUNTS = true;
+   public static final String openkoreLogFolder = "C:\\Users\\Scott\\Desktop\\temp2\\RagnarokTools\\storageMaps\\";
 
    public static void main(String[] args) throws FileNotFoundException {
       introduction();
       TreeMap<String, TreeMap<String, Integer>> superTable = new TreeMap<String, TreeMap<String, Integer>>();
       ArrayList<String> accounts = getAccounts();
       superTable = addAccounts(superTable, accounts);
-      makeTextDocument2(superTable, accounts);
+      makeTextDocument(superTable, accounts);
+      makeCsvDocument(superTable, accounts);
    }
    
    // introduction and description of this program
@@ -27,7 +30,8 @@ public class StorageMaps {
    
    // returns an ArrayList that contains all of the names of files in the current directory that begin with "storage_"
    public static ArrayList<String> getAccounts() {
-      File folder = new File("C:\\Users\\Scott\\Desktop\\temp\\storageMaps\\");
+      //File folder = new File("C:\\Users\\Scott\\Desktop\\temp2\\RagnarokTools\\storageMaps\\");
+      File folder = new File(openkoreLogFolder);
       File[] listOfFiles = folder.listFiles();
       ArrayList<String> accounts = new ArrayList<String>();
       for (File file : listOfFiles) {
@@ -71,72 +75,8 @@ public class StorageMaps {
    }
    
    // makes a text document in the form of a table with items on the left and accounts on the top.  This
-   // version will print the TOTAL column on the right
-   public static void makeTextDocument(TreeMap<String, TreeMap<String, Integer>> superTable, ArrayList<String> accounts) throws FileNotFoundException {
-      // make the tableName
-      String tableName = "";
-      Date today = new Date();
-      int day = today.getDate();
-      int month = today.getMonth() + 1;
-      int year = today.getYear() + 1900;
-      if (PRINTACCOUNTS) {
-         tableName += "superTable" + "(" + month + "-" + day + "-" + year + ").txt";
-      } else {
-         tableName += "superTable" + "(" + month + "-" + day + "-" + year + "clean).txt";
-      }
-      PrintStream superTableFile = new PrintStream(new File(tableName));
-      
-      // begin filling in the table
-      printHeader(accounts, superTableFile);
-      Set<String> recordedItems = new TreeSet<String>();
-      int lineCount = 0;
-      int itemCount = 0;
-      int total = 0;
-      String totalString = "";
-      for (String account1 : accounts) {
-         for (String item : superTable.get(account1.split("_")[1]).keySet()) {
-            if (!recordedItems.contains(item)) {
-               for (int i = 0; i < 54 - item.length(); i++) {
-                  superTableFile.print(" ");
-               }
-               superTableFile.print(item);
-               for (String account2 : accounts) {
-                  if (superTable.get(account2.split("_")[1]).containsKey(item)) {
-                     itemCount = superTable.get(account2.split("_")[1]).get(item);
-                     total += itemCount;
-                     String amount = superTable.get(account2.split("_")[1]).get(item) + "";
-                     for (int i = 0; i < 13 - amount.length(); i++) {
-                        superTableFile.print(" ");
-                     }
-                     superTableFile.print(amount);
-                  } else {
-                     superTableFile.print("             ");
-                  }
-               }
-               totalString = total + "";
-               if (PRINTACCOUNTS) {
-                  for (int i = 0; i < 13 - totalString.length(); i++) {
-                     superTableFile.print(" ");
-                  }
-                  superTableFile.print(total);
-               }
-               superTableFile.println();
-               total = 0;
-               recordedItems.add(item);
-               lineCount++;
-               if (lineCount == 30) {
-                  lineCount = 0;
-                  superTableFile.println();
-                  printHeader(accounts, superTableFile);
-               }
-            }
-         }
-      }
-   }
-   
-   // makes a text document in the form of a table with items on the left and accounts on the top.  This
    // version will print the TOTAL column next to the ITEM column.
-   public static void makeTextDocument2(TreeMap<String, TreeMap<String, Integer>> superTable, ArrayList<String> accounts) throws FileNotFoundException {
+   public static void makeTextDocument(TreeMap<String, TreeMap<String, Integer>> superTable, ArrayList<String> accounts) throws FileNotFoundException {
       // make the tableName
       String tableName = "";
       Date today = new Date();
@@ -151,7 +91,7 @@ public class StorageMaps {
       PrintStream superTableFile = new PrintStream(new File(tableName));
       
       // begin filling in the table
-      printHeader2(accounts, superTableFile);
+      printHeader(accounts, superTableFile);
       Set<String> recordedItems = new TreeSet<String>();
       String[] values = new String[accounts.size()];
       int iter = 0;
@@ -199,28 +139,15 @@ public class StorageMaps {
                if (lineCount == 30) {
                   lineCount = 0;
                   superTableFile.println();
-                  printHeader2(accounts, superTableFile);
+                  printHeader(accounts, superTableFile);
                }
             }
          }
       }
    }
-
-   // Prints the header of the table with the TOTAL column on the end
-   public static void printHeader(ArrayList<String> accounts, PrintStream superTableFile) {
-      superTableFile.print("                                                  ITEM");
-      for (String account : accounts) {
-         //superTableFile.print(account.split("_")[1]);
-         for (int i = 0; i < 13 - account.split("_")[1].length(); i++) {
-            superTableFile.print(" ");
-         }
-         superTableFile.print(account.split("_")[1]);
-      }
-      superTableFile.println("        TOTAL");
-   }
    
    // Prints the header of the table with the TOTAL column next to the ITEM column
-   public static void printHeader2(ArrayList<String> accounts, PrintStream superTableFile) {
+   public static void printHeader(ArrayList<String> accounts, PrintStream superTableFile) {
       superTableFile.print("                                                  ITEM        TOTAL");
       
       // prints all account names to head columns
@@ -233,6 +160,80 @@ public class StorageMaps {
          }
       }
       
+      superTableFile.println();
+   }
+   
+   // makes a csv file in the form of a table with items on the left and accounts on the top.  This
+   // version will print the TOTAL column next to the ITEM column.
+   public static void makeCsvDocument(TreeMap<String, TreeMap<String, Integer>> superTable, ArrayList<String> accounts) throws FileNotFoundException {
+      // make the tableName
+      String tableName = "";
+      Date today = new Date();
+      int day = today.getDate();
+      int month = today.getMonth() + 1;
+      int year = today.getYear() + 1900;
+      if (PRINTACCOUNTS) {
+         tableName += "logs\\superTable" + "(" + month + "-" + day + "-" + year + ").csv";
+      } else {
+         tableName += "logs\\superTable" + "(" + month + "-" + day + "-" + year + "clean).csv";
+      }
+      PrintStream superTableFile = new PrintStream(new File(tableName));
+      
+      // begin filling in the table
+      printCsvHeader(accounts, superTableFile);
+      Set<String> recordedItems = new TreeSet<String>();
+      String[] values = new String[accounts.size()];
+      int iter = 0;
+      int lineCount = 0;
+      int itemCount = 0;
+      int total = 0;
+      String totalString = "";
+      for (String account1 : accounts) {
+         for (String item : superTable.get(account1.split("_")[1]).keySet()) {
+            if (!recordedItems.contains(item)) {
+               superTableFile.print(item + ",");
+               for (String account2 : accounts) {
+                  if (superTable.get(account2.split("_")[1]).containsKey(item)) {
+                     total += superTable.get(account2.split("_")[1]).get(item);
+                     values[iter] = superTable.get(account2.split("_")[1]).get(item) + "";
+                  } else {
+                     values[iter] = "0";
+                  }
+                  iter++;
+               }
+               totalString = total + "";
+               superTableFile.print(total);
+               
+               // prints individual account values
+               if (PRINTACCOUNTS) {
+                  for (String value : values) {
+                     superTableFile.print("," + value);
+                  }
+               }
+               
+               superTableFile.println();
+               iter = 0;
+               total = 0;
+               recordedItems.add(item);
+               lineCount++;
+               if (lineCount == 30) {
+                  lineCount = 0;
+                  printCsvHeader(accounts, superTableFile);
+               }
+            }
+         }
+      }
+   }
+   
+   // Prints the header of the table with the TOTAL column next to the ITEM column
+   public static void printCsvHeader(ArrayList<String> accounts, PrintStream superTableFile) {
+      superTableFile.print("ITEM,TOTAL");
+      // prints all account names to head columns
+      if (PRINTACCOUNTS) {
+         for (String account : accounts) {
+            superTableFile.print("," + account.split("_")[1]);
+         }
+      }
       superTableFile.println();
    }
 
