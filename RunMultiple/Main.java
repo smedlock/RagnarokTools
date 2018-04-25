@@ -2,7 +2,9 @@
 // 10/4/2015
 // Personal ragnarok related program
 // This class runs multiple openkore clients through a simple gui or hardcoded
-// file locations.
+// file locations. it uses a list of different account infos in a text file.
+// account infos should be per line, in the format of <username> <password> <char>, 
+// separated by a single space.
 
 import java.util.*;
 import java.io.*;
